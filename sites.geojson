@@ -1,57 +1,185 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "company": "Gleesons",
-        "sales_name": "Chapelford Heights",
-        "address": [
-          "20 Commission Square",
-          "Warrington"
-        ],
-        "postcode": "WA1 3GP",
-        "status": "Live"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-2.5957, 53.3910]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "company": "Barratt Homes Manchester",
-        "sales_name": "Victoria Riverside",
-        "address": [
-          "Red Bank",
-          "Manchester"
-        ],
-        "postcode": "M4 4HF",
-        "status": "Coming Soon"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-2.2303, 53.4901]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "company": "Vistry Manchester & Cheshire East",
-        "sales_name": "Waterside Gardens",
-        "address": [
-          "Canal Road",
-          "Stockport"
-        ],
-        "postcode": "SK1 3BN",
-        "status": "Live"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-2.1575, 53.4098]
-      }
-    }
-  ]
+  "type": "Feature",
+  "properties": {
+    "company": "Barratt Homes Manchester",
+    "sales_name": "Waldmers Wood",
+    "address": [
+      "Walmersley Old Road",
+      "Walmersley",
+      "Greater Manchester"
+    ],
+    "postcode": "BL9 6SB",
+    "status": "Coming Soon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.3009, 53.6072]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barratt Homes Manchester",
+    "sales_name": "Heathfield Nook",
+    "address": [
+      "Burlow Road",
+      "Buxton",
+      "Derbyshire"
+    ],
+    "postcode": "SK17 9HT",
+    "status": "Coming Soon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.9316, 53.2586]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barratt Homes Manchester",
+    "sales_name": "West End Green",
+    "address": [
+      "Paddock Lane",
+      "Halifax",
+      "West Yorkshire"
+    ],
+    "postcode": "HX2 0NT",
+    "status": "Coming Soon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.8844, 53.7206]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barratt Homes Manchester",
+    "sales_name": "Brun Lea Heights",
+    "address": [
+      "Rossendale Road",
+      "Habergham Eaves",
+      "Burnley",
+      "Lancashire"
+    ],
+    "postcode": "BB11 5FF",
+    "status": "Coming Soon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.2608, 53.7779]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barratt Homes Manchester",
+    "sales_name": "Penning Fold",
+    "address": [
+      "Wellhouse Lane",
+      "Penistone",
+      "Barnsley",
+      "South Yorkshire"
+    ],
+    "postcode": "S36 8ER",
+    "status": "Coming Soon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.6297, 53.5269]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barratt Homes Manchester",
+    "sales_name": "The Skylarks",
+    "address": [
+      "Brighouse Road",
+      "Halifax",
+      "West Yorkshire"
+    ],
+    "postcode": "HX3 8FY",
+    "status": "Coming Soon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.8306, 53.7421]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barratt Homes Manchester",
+    "sales_name": "Bernets Nook",
+    "address": [
+      "Brokenstone Road",
+      "Blackburn",
+      "Lancashire"
+    ],
+    "postcode": "BB3 0LL",
+    "status": "Coming Soon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.5116, 53.7368]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barratt Homes Manchester",
+    "sales_name": "Wadsworth Gardens",
+    "address": [
+      "Whitechapel Road",
+      "Cleckheaton",
+      "West Yorkshire"
+    ],
+    "postcode": "BD19 6HS",
+    "status": "Coming Soon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.7149, 53.7246]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barratt Homes Manchester",
+    "sales_name": "Lockwood Fields",
+    "address": [
+      "Owl Lane",
+      "Dewsbury",
+      "West Yorkshire"
+    ],
+    "postcode": "WF12 7FG",
+    "status": "Coming Soon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.6403, 53.6814]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barratt Homes Manchester",
+    "sales_name": "Centurion Village",
+    "address": [
+      "Longmeanygate",
+      "Midge Hall",
+      "Leyland",
+      "Lancashire"
+    ],
+    "postcode": "PR26 6TD",
+    "status": "Coming Soon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.7162, 53.6875]
+  }
 }
+
 
