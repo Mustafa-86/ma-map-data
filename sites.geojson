@@ -4,14 +4,54 @@
     {
       "type": "Feature",
       "properties": {
-        "company": "MukAway Test Site Eureka!",
-        "postcode": "SW1A 1AA",
+        "company": "Gleesons",
+        "sales_name": "Chapelford Heights",
+        "address": [
+          "20 Commission Square",
+          "Warrington"
+        ],
+        "postcode": "WA1 3GP",
         "status": "Live"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-0.1278, 51.5074]
+        "coordinates": [-2.5957, 53.3910]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "company": "Barratt Homes Manchester",
+        "sales_name": "Victoria Riverside",
+        "address": [
+          "Red Bank",
+          "Manchester"
+        ],
+        "postcode": "M4 4HF",
+        "status": "Coming Soon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.2303, 53.4901]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "company": "Vistry Manchester & Cheshire East",
+        "sales_name": "Waterside Gardens",
+        "address": [
+          "Canal Road",
+          "Stockport"
+        ],
+        "postcode": "SK1 3BN",
+        "status": "Live"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.1575, 53.4098]
       }
     }
   ]
 }
+
