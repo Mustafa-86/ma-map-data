@@ -141,6 +141,238 @@
         "coordinates": [-2.7162, 53.6875]
       }
     }
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Queens Reach",
+    "address": ["Keckwick Lane", "Daresbury", "Warrington"],
+    "postcode": "WA4 6SU",
+    "status": "Coming Soon"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.6364, 53.3416] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Kings Park",
+    "address": ["Fence Avenue", "Macclesfield", "Cheshire"],
+    "postcode": "SK10 1LT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1262, 53.2584] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Sundial Place DWH",
+    "address": ["Lydiate Lane", "Thornton", "Liverpool"],
+    "postcode": "L23 1AE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.9978, 53.4766] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Silver Hill Manor",
+    "address": ["Broad Lane / Lower Lane", "Rochdale"],
+    "postcode": "OL16 4PT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1384, 53.6142] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Centurion Village",
+    "address": ["Longmeanygate", "Midge Hall", "Leyland", "Lancashire"],
+    "postcode": "PR26 7TB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.7162, 53.6875] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Maylands Park",
+    "address": ["Peter De Stapleigh Way", "Stapeley", "Nantwich", "Cheshire"],
+    "postcode": "CW5 7TU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.5074, 53.0486] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Calder Rise",
+    "address": ["Dunlin Drive", "Cottam", "Preston", "Lancashire"],
+    "postcode": "PR4 0JX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.7466, 53.7801] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Penning Ridge",
+    "address": ["Halifax Road", "Penistone", "Barnsley", "South Yorkshire"],
+    "postcode": "S36 7EY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.6332, 53.5239] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Hazelwood View",
+    "address": ["Bradford Road", "Huddersfield", "West Yorkshire"],
+    "postcode": "HD2 2JY",
+    "status": "Coming Soon"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.7836, 53.6758] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Hollins Park View",
+    "address": ["Broomfield Lane", "Stocksbridge", "Sheffield", "South Yorkshire"],
+    "postcode": "S36 2AQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5974, 53.4858] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Oughtibridge Valley",
+    "address": ["Main Road", "Oughtibridge", "Sheffield", "South Yorkshire"],
+    "postcode": "S35 0DN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5358, 53.4639] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "The Coppice",
+    "address": ["Upper Green Avenue", "Tingley", "West Yorkshire"],
+    "postcode": "WF3 1TB",
+    "status": "Coming Soon"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5857, 53.7312] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Amblers Chase",
+    "address": ["Bradford Road", "East Ardsley", "West Yorkshire"],
+    "postcode": "WF3 2DL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5489, 53.7141] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Meadow Hill",
+    "address": ["Hexham Road", "Throckley", "Newcastle upon Tyne"],
+    "postcode": "NE15 9FW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.7156, 54.9976] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "The Oval at Old Durham Gate",
+    "address": ["Bent House Lane", "Durham", "County Durham"],
+    "postcode": "DH1 2DX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5428, 54.7765] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "West Meadows @ Arcot Estate",
+    "address": ["Beacon Lane", "Cramlington", "Northumberland"],
+    "postcode": "NE23 8FP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.6089, 55.1014] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "The Paddocks",
+    "address": ["Cottingwood", "Morpeth", "Northumberland"],
+    "postcode": "NE61 3GQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.6926, 55.1659] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Doxford Green",
+    "address": ["Burdon Lane", "Ryhope", "Sunderland", "Tyne & Wear"],
+    "postcode": "SR3 2SN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.3834, 54.8736] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Highgrove at Wynyard Park",
+    "address": ["Attenborough Way", "Wynyard", "Stockton-on-Tees"],
+    "postcode": "TS22 5FD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.3216, 54.5754] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Clockmakers",
+    "address": ["Tilstock Road", "Whitchurch", "Shropshire"],
+    "postcode": "SY13 3JQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.6836, 52.9674] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "The Damsons",
+    "address": ["Blandford Way", "Market Drayton", "Shropshire"],
+    "postcode": "TF9 3FS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4942, 52.9053] }
+}
+
   ]
 }
 
