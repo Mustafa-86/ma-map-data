@@ -417,6 +417,160 @@
     "type": "Point",
     "coordinates": [-2.3047, 53.6036]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes North West",
+    "sales_name": "Brookstone Walk",
+    "address": ["Dinting Vale", "Glossop", "Derbyshire"],
+    "postcode": "SK13 6NY",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.9846, 53.4478]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes North West",
+    "sales_name": "High Hill View",
+    "address": ["Hayfield Road", "New Mills", "High Peak"],
+    "postcode": "SK22 4QH",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.0059, 53.3646]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes North West",
+    "sales_name": "Rectory Woods",
+    "address": ["Rectory Lane", "Standish", "Greater Manchester"],
+    "postcode": "WN6 0XD",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.6594, 53.5862]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes North West",
+    "sales_name": "Cardwell Park",
+    "address": ["Garstang Road", "Barton", "Lancashire"],
+    "postcode": "PR3 5DR",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.7449, 53.8381]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes North West",
+    "sales_name": "Pinfold Manor",
+    "address": ["Garstang Road", "Broughton", "Lancashire"],
+    "postcode": "PR3 5JB",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.7206, 53.8192]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes North West",
+    "sales_name": "The Lawns",
+    "address": ["Whittingham Lane", "Broughton", "Lancashire"],
+    "postcode": "PR3 5DA",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.7259, 53.8157]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes North West",
+    "sales_name": "The Paddocks",
+    "address": ["Harrow Drive", "Higher Bartle", "Lancashire"],
+    "postcode": "PR4 0UH",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.8064, 53.8011]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes North West",
+    "sales_name": "Kingsley Manor",
+    "address": ["Lambs Road", "Thornton Cleveleys", "Lancashire"],
+    "postcode": "FY5 5PJ",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.0078, 53.8703]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes North West",
+    "sales_name": "Waterside Meadows",
+    "address": ["Arthurs Lane", "Hambleton", "Lancashire"],
+    "postcode": "FY6 9AT",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.0286, 53.9142]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes North West",
+    "sales_name": "Farriers Chase",
+    "address": ["Wigan Road", "Clayton-le-Woods", "Chorley", "Lancashire"],
+    "postcode": "PR25 5PF",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.6653, 53.6984]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes North West",
+    "sales_name": "Latune Gardens",
+    "address": ["Firswood Road", "Lathom", "Lancashire"],
+    "postcode": "WN8 8UT",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.7961, 53.5624]
+  }
 }
   ]
 }
