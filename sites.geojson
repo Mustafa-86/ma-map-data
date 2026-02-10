@@ -305,7 +305,119 @@
         "status": "Live"
       },
       "geometry": { "type": "Point", "coordinates": [-2.4942, 52.9053] }
-    }
+    },
+    {
+  "type": "Feature",
+  "properties": {
+    "company": "Morris Homes North West",
+    "sales_name": "The Grange",
+    "address": ["Liverpool Road", "Merseyside"],
+    "postcode": "L37 6BR",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.0412, 53.5569]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Morris Homes North West",
+    "sales_name": "The Meadow",
+    "address": ["London Road", "Macclesfield", "Cheshire"],
+    "postcode": "SK11 0JZ",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.1336, 53.2437]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Morris Homes North West",
+    "sales_name": "Water’s Edge",
+    "address": ["Chester Road", "Preston on the Hill", "Cheshire"],
+    "postcode": "WA4 4HU",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.6318, 53.3419]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Morris Homes North West",
+    "sales_name": "Rivington Park",
+    "address": ["Locomotive Way", "Off Station Road", "Horwich", "Bolton"],
+    "postcode": "BL6 5JE",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.5354, 53.5931]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Morris Homes North West",
+    "sales_name": "Princes Meadows",
+    "address": ["Blackpool Road", "Kirkham", "Lancashire"],
+    "postcode": "PR4 2DZ",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.8763, 53.7824]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Morris Homes North West",
+    "sales_name": "Bartle Meadows",
+    "address": ["Applewood Road", "Cottam", "Preston", "Lancashire"],
+    "postcode": "PR4 0PW",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.7419, 53.7812]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Morris Homes North West",
+    "sales_name": "St Mary’s Park",
+    "address": ["The Cawsey", "Off Leyland Road", "Preston", "Lancashire"],
+    "postcode": "PR1 9SP",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.7028, 53.7476]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Morris Homes North West",
+    "sales_name": "Greenmount Manor",
+    "address": ["Springside Road", "Walmersley", "Bury", "Greater Manchester"],
+    "postcode": "BL9 5JE",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.3047, 53.6036]
+  }
+}
   ]
 }
 
