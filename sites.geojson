@@ -745,6 +745,141 @@
     "type": "Point",
     "coordinates": [-2.8004, 53.4119]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Countryside Homes",
+    "sales_name": "Coppenhall Place",
+    "address": ["West Street", "Crewe", "Cheshire East"],
+    "postcode": "CW1 3HZ",
+    "status": "Live",
+    "vistry_region": "Manchester & Cheshire East"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.4384, 53.0978]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Countryside Homes",
+    "sales_name": "Hartshead View",
+    "address": ["Off Fir Tree Road", "Oldham", "Greater Manchester"],
+    "postcode": "OL8 2LL",
+    "status": "Live",
+    "vistry_region": "Manchester & Cheshire East"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.0951, 53.5234]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Countryside Homes",
+    "sales_name": "Calico Grove",
+    "address": ["Royle Road", "Rochdale", "Greater Manchester"],
+    "postcode": "OL11 3ET",
+    "status": "Live",
+    "vistry_region": "Manchester & Cheshire East"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.1416, 53.6121]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Countryside Homes",
+    "sales_name": "Millbank Lock",
+    "address": ["Lock Lane", "Partington", "Greater Manchester"],
+    "postcode": "M31 4PP",
+    "status": "Live",
+    "vistry_region": "Manchester & Cheshire East"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.4376, 53.4187]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Countryside Homes",
+    "sales_name": "The Fairways at Brackley Village",
+    "address": ["Salford Road", "Little Hulton", "Salford", "Greater Manchester"],
+    "postcode": "M38 9AZ",
+    "status": "Live",
+    "vistry_region": "Manchester & Cheshire East"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.4302, 53.5331]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Countryside Homes",
+    "sales_name": "Rivers Edge",
+    "address": ["Slutchers Lane", "Warrington", "Cheshire"],
+    "postcode": "WA1 1EA",
+    "status": "Live",
+    "vistry_region": "Merseyside & Cheshire West"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.5796, 53.3924]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Countryside Homes",
+    "sales_name": "Brookfield Vale",
+    "address": ["Roman Road", "Blackburn", "Lancashire"],
+    "postcode": "BB1 2LB",
+    "status": "Live",
+    "vistry_region": "Merseyside & Cheshire West"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.4609, 53.7486]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Countryside Homes",
+    "sales_name": "Beaumont Green",
+    "address": ["Nectar Drive", "Warton", "Lancashire"],
+    "postcode": "PR4 1LR",
+    "status": "Live",
+    "vistry_region": "Merseyside & Cheshire West"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.8832, 53.7421]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Countryside Homes",
+    "sales_name": "Eastbrook Village",
+    "address": ["Poverty Lane", "Maghull", "Merseyside"],
+    "postcode": "L31 1GP",
+    "status": "Live",
+    "vistry_region": "Merseyside & Cheshire West"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.9413, 53.5169]
+  }
 }
   ]
 }
