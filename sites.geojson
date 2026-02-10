@@ -285,28 +285,6 @@
       "geometry": { "type": "Point", "coordinates": [-1.5489, 53.7141] }
     },
     {
-      "type": "Feature",
-      "properties": {
-        "company": "David Wilson Homes North West",
-        "sales_name": "Clockmakers",
-        "address": ["Tilstock Road", "Whitchurch", "Shropshire"],
-        "postcode": "SY13 3JQ",
-        "status": "Live"
-      },
-      "geometry": { "type": "Point", "coordinates": [-2.6836, 52.9674] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "company": "David Wilson Homes North West",
-        "sales_name": "The Damsons",
-        "address": ["Blandford Way", "Market Drayton", "Shropshire"],
-        "postcode": "TF9 3FS",
-        "status": "Live"
-      },
-      "geometry": { "type": "Point", "coordinates": [-2.4942, 52.9053] }
-    },
-    {
   "type": "Feature",
   "properties": {
     "company": "Morris Homes North West",
