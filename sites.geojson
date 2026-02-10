@@ -571,7 +571,97 @@
     "type": "Point",
     "coordinates": [-2.7961, 53.5624]
   }
-}
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bovis Homes",
+    "sales_name": "Hollin Bank",
+    "address": ["Hollingworth Road", "Littleborough", "Greater Manchester"],
+    "postcode": "OL15 0AU",
+    "status": "Live",
+    "vistry_region": "Manchester & Cheshire East"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.0946, 53.6462]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bovis Homes",
+    "sales_name": "Heath Farm",
+    "address": ["Moss View Road", "Partington", "Greater Manchester"],
+    "postcode": "M31 4SA",
+    "status": "Live",
+    "vistry_region": "Manchester & Cheshire East"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.4288, 53.4196]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bovis Homes",
+    "sales_name": "Bollin Grange",
+    "address": ["Gaw End Lane", "Lyme Green", "Macclesfield", "Cheshire East"],
+    "postcode": "SK11 0JZ",
+    "status": "Live",
+    "vistry_region": "Manchester & Cheshire East"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.1336, 53.2437]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bovis Homes",
+    "sales_name": "Sunnybower Meadow",
+    "address": ["Whalley Old Road", "Blackburn", "Lancashire"],
+    "postcode": "BB1 5FL",
+    "status": "Live",
+    "vistry_region": "Merseyside & Cheshire West"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.4597, 53.7564]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bovis Homes",
+    "sales_name": "Hatters Chase",
+    "address": ["Walsingham Drive", "Sandymoor", "Cheshire"],
+    "postcode": "WA7 1EB",
+    "status": "Live",
+    "vistry_region": "Merseyside & Cheshire West"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.6874, 53.3564]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bovis Homes",
+    "sales_name": "Collingwood Park",
+    "address": ["Holden Fold", "Darwen", "Lancashire"],
+    "postcode": "BB3 3AU",
+    "status": "Live",
+    "vistry_region": "Merseyside & Cheshire West"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.4668, 53.6979]
+  }
+},
   ]
 }
 
