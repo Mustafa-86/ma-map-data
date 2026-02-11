@@ -1213,7 +1213,7 @@
     "sales_name": "Croes Atti",
     "address": ["A548 Chester Road", "Oakenholt"],
     "postcode": "CH6 5WN",
-    "status": "Active"
+    "status": "Live"
   },
   "geometry": {
     "type": "Point",
@@ -1227,7 +1227,7 @@
     "sales_name": "Summers Bridge",
     "address": ["Welsh Road", "Deeside"],
     "postcode": "CH5 2FN",
-    "status": "Active"
+    "status": "Live"
   },
   "geometry": {
     "type": "Point",
@@ -1241,7 +1241,7 @@
     "sales_name": "Dôl Derwen",
     "address": ["Gwernaffield Road", "Mold"],
     "postcode": "CH7 5DA",
-    "status": "Active"
+    "status": "Live"
   },
   "geometry": {
     "type": "Point",
