@@ -1040,6 +1040,146 @@
     "type": "Point",
     "coordinates": [-3.1325, 53.2009]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Homes North West",
+    "sales_name": "Meadow Brook",
+    "address": ["Walsingham Drive", "Runcorn"],
+    "postcode": "WA7 1XB",
+    "status": "Coming Soon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.7185, 53.3365]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Homes North West",
+    "sales_name": "The Seasons",
+    "address": ["1A Worsley Mesnes Drive", "Worsley Mesnes", "Wigan"],
+    "postcode": "WN3 5YD",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.6614, 53.5296]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Homes North West",
+    "sales_name": "Farington Mews",
+    "address": ["Croston Road", "Leyland"],
+    "postcode": "PR26 6PN",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.6973, 53.6922]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Homes North West",
+    "sales_name": "Water's Edge",
+    "address": ["4 Hamilton Way", "Shadsworth", "Blackburn"],
+    "postcode": "BB2 3FG",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.4481, 53.7394]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Homes North West",
+    "sales_name": "Dee Gardens",
+    "address": ["Welsh Road", "Garden City", "Deeside"],
+    "postcode": "CH6 2RA",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.0386, 53.2131]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Homes North West",
+    "sales_name": "Foxlow Fields",
+    "address": ["Ashbourne Road", "Buxton"],
+    "postcode": "SK17 9XR",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.9129, 53.2448]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Homes North West",
+    "sales_name": "Field's Edge",
+    "address": ["Brow Bottom Lane", "Halifax"],
+    "postcode": "HX2 8SN",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.9062, 53.7429]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Homes North West",
+    "sales_name": "Oaklands",
+    "address": ["Turner Avenue South", "Halifax"],
+    "postcode": "HX2 8EQ",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.9084, 53.7398]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Homes North West",
+    "sales_name": "Mill Place",
+    "address": ["Cheadle Road", "Tean", "Stoke-on-Trent"],
+    "postcode": "ST10 4FY",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.9907, 52.9884]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Homes North West",
+    "sales_name": "The Orchards",
+    "address": ["Soothill Lane", "Soothill"],
+    "postcode": "WF17 6EU",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.6763, 53.7108]
+  }
 }
   ]
 }
