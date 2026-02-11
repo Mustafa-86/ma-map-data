@@ -912,7 +912,7 @@
     "postcode": "L31 2ND",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.9251, 53.5386] }
+  "geometry": { "type": "Point", "coordinates": [-2.9353604291053115, 53.5386 53.528724379828226] }
 },
 {
   "type": "Feature",
@@ -923,7 +923,7 @@
     "postcode": "LL11 6UY",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-3.0467, 53.0582] }
+  "geometry": { "type": "Point", "coordinates": [-3.0275554942324834, 53.056449524555305] }
 },
 {
   "type": "Feature",
@@ -934,7 +934,7 @@
     "postcode": "WA5 3ZH",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.6859, 53.4091] }
+  "geometry": { "type": "Point", "coordinates": [-2.6460764125012406, 53.4112579075369] }
 },
 {
   "type": "Feature",
@@ -945,7 +945,7 @@
     "postcode": "CW12 4YJ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.1994, 53.1618] }
+  "geometry": { "type": "Point", "coordinates": [-2.249854451393551, 53.174381718996415] }
 },
 {
   "type": "Feature",
@@ -967,7 +967,7 @@
     "postcode": "WN8 8FD",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.7881, 53.5649] }
+  "geometry": { "type": "Point", "coordinates": [-2.8122411799739493, 53.552441461960996] }
 },
 {
   "type": "Feature",
@@ -978,7 +978,7 @@
     "postcode": "PR3 0YG",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.8827, 53.8537] }
+  "geometry": { "type": "Point", "coordinates": [-2.884213878678186, 53.85555833210561] }
 },
 {
   "type": "Feature",
@@ -989,7 +989,7 @@
     "postcode": "L26 0TY",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.8394, 53.3682] }
+  "geometry": { "type": "Point", "coordinates": [-2.821005460247845, 53.363733221596966] }
 },
 {
   "type": "Feature",
@@ -1000,7 +1000,7 @@
     "postcode": "L21 8QS",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.9873, 53.4792] }
+  "geometry": { "type": "Point", "coordinates": [-2.9952978630498963, 53.46843740709826] }
 },
 {
   "type": "Feature",
@@ -1011,7 +1011,7 @@
     "postcode": "CH5 2GH",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-3.0432, 53.2046] }
+  "geometry": { "type": "Point", "coordinates": [-3.0077002813274514, 53.22119404735791] }
 },
 {
   "type": "Feature",
@@ -1022,7 +1022,7 @@
     "postcode": "L18 8DU",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.9151, 53.3804] }
+  "geometry": { "type": "Point", "coordinates": [-2.925172554428298, 53.37623306405508] }
 },
 {
   "type": "Feature",
@@ -1035,7 +1035,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.2729, 53.4876]
+    "coordinates": [-2.2884758289619027, 53.48329161350527]
   }
 },
 {
@@ -1049,7 +1049,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-3.1325, 53.2009]
+    "coordinates": [-3.1193997413673156, 53.181653966459784]
   }
 },
 {
@@ -1063,7 +1063,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.7185, 53.3365]
+    "coordinates": [-2.6617126427346602, 53.336370701686505]
   }
 },
 {
@@ -1077,7 +1077,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.6614, 53.5296]
+    "coordinates": [-2.6484931135661864, 53.531830741866806]
   }
 },
 {
@@ -1091,7 +1091,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.6973, 53.6922]
+    "coordinates": [-2.707345059562503, 53.71445032222689]
   }
 },
 {
@@ -1105,7 +1105,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.4481, 53.7394]
+    "coordinates": [-2.465580082788595, 53.73402447491358]
   }
 },
 {
@@ -1119,7 +1119,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-3.0386, 53.2131]
+    "coordinates": [-3.013206964491462, 53.21255143665979]
   }
 },
 {
