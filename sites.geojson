@@ -153,46 +153,62 @@
      "geometry": {
         "type": "Point",
       "coordinates": [-2.63512, 53.33902]
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "company": "David Wilson Homes North West",
-        "sales_name": "Kings Park",
-        "address": ["Fence Avenue", "Macclesfield", "Cheshire"],
-        "postcode": "SK10 1LT",
-        "status": "Live"
-      },
-      "geometry": {
-      "type": "Point",
-      "coordinates": [-2.12298, 53.25584]
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "company": "David Wilson Homes North West",
-        "sales_name": "Sundial Place DWH",
-        "address": ["Lydiate Lane", "Thornton", "Liverpool"],
-        "postcode": "L23 1AE",
-        "status": "Live"
-      },
-       "geometry": {
-      "type": "Point",
-      "coordinates": [-2.99871, 53.47822]
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "company": "David Wilson Homes North West",
-        "sales_name": "Silver Hill Manor",
-        "address": ["Broad Lane / Lower Lane", "Rochdale"],
-        "postcode": "OL16 4PT",
-        "status": "Live"
-      },
-      "geometry": {
-      "type": "Point",
-      "coordinates": [-2.14302, 53.61058]
-    },
+    },{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Queens Reach",
+    "address": ["Keckwick Lane", "Daresbury", "Warrington"],
+    "postcode": "WA4 6SU",
+    "status": "Coming Soon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.63512, 53.33902]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Kings Park",
+    "address": ["Fence Avenue", "Macclesfield", "Cheshire"],
+    "postcode": "SK10 1LT",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.12298, 53.25584]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Sundial Place DWH",
+    "address": ["Lydiate Lane", "Thornton", "Liverpool"],
+    "postcode": "L23 1AE",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.99871, 53.47822]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "David Wilson Homes North West",
+    "sales_name": "Silver Hill Manor",
+    "address": ["Broad Lane / Lower Lane", "Rochdale"],
+    "postcode": "OL16 4PT",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.14302, 53.61058]
+  }
+},
     {
       "type": "Feature",
       "properties": {
