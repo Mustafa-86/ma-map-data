@@ -1199,7 +1199,7 @@
     "sales_name": "Parc Bodafon",
     "address": ["Nant y Gamar Road", "Llandudno"],
     "postcode": "LL30 1YE",
-    "status": "Active"
+    "status": "Live"
   },
   "geometry": {
     "type": "Point",
