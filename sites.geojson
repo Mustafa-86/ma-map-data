@@ -152,7 +152,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.63512, 53.33902]
+    "coordinates": [-2.6392182511904747, 53.34573181651962]
   }
 },
 {
@@ -166,7 +166,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.12298, 53.25584]
+    "coordinates": [-2.114330121140659, 53.261918062415894]
   }
 },
 {
@@ -180,7 +180,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.99871, 53.47822]
+    "coordinates": [-2.989136851618875, 53.49878040349037]
   }
 },
 {
@@ -194,7 +194,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.14302, 53.61058]
+    "coordinates": [-2.126237320285489, 53.60225173788542]
   }
 },
     {
@@ -206,7 +206,7 @@
         "postcode": "PR26 7TB",
         "status": "Live"
       },
-      "geometry": { "type": "Point", "coordinates": [-2.7162, 53.6875] }
+      "geometry": { "type": "Point", "coordinates": [-2.726004050880666, 53.687553.70350794805681] }
     },
     {
       "type": "Feature",
@@ -228,7 +228,7 @@
         "postcode": "PR4 0JX",
         "status": "Live"
       },
-      "geometry": { "type": "Point", "coordinates": [-2.7466, 53.7801] }
+      "geometry": { "type": "Point", "coordinates": [-2.770457242860524, 53.78301861455251] }
     },
     {
       "type": "Feature",
@@ -239,7 +239,7 @@
         "postcode": "S36 7EY",
         "status": "Live"
       },
-      "geometry": { "type": "Point", "coordinates": [-1.6332, 53.5239] }
+      "geometry": { "type": "Point", "coordinates": [-1.6284897277314643, 53.53813045502002] }
     },
     {
       "type": "Feature",
@@ -250,7 +250,7 @@
         "postcode": "HD2 2JY",
         "status": "Coming Soon"
       },
-      "geometry": { "type": "Point", "coordinates": [-1.7836, 53.6758] }
+      "geometry": { "type": "Point", "coordinates": [-1.7773235867293073, 53.68179232785443] }
     },
     {
       "type": "Feature",
@@ -261,7 +261,7 @@
         "postcode": "S36 2AQ",
         "status": "Live"
       },
-      "geometry": { "type": "Point", "coordinates": [-1.5974, 53.4858] }
+      "geometry": { "type": "Point", "coordinates": [-1.5845068987848028, 53.47588218215768] }
     },
     {
       "type": "Feature",
