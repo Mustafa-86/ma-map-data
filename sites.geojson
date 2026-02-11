@@ -1012,6 +1012,34 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-2.9151, 53.3804] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lovells North West & North Wales",
+    "sales_name": "Phoenix Quarter",
+    "address": ["293 Liverpool Street", "Salford", "Manchester"],
+    "postcode": "M6 5UF",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.2729, 53.4876]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lovells North West & North Wales",
+    "sales_name": "Bryn Castell",
+    "address": ["New Brighton Road", "Near Mold", "New Brighton"],
+    "postcode": "CH7 6ZA",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.1325, 53.2009]
+  }
 }
   ]
 }
