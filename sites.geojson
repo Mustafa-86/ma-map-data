@@ -664,7 +664,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.4416, 53.1046]
+    "coordinates": [-2.473801457091287, 53.12245796425405] 
   }
 },
 {
@@ -679,7 +679,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.1336, 53.2437]
+    "coordinates": [-2.130267789920286, 53.23477806157448]
   }
 },
 {
@@ -694,7 +694,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.4288, 53.4196]
+    "coordinates": [-2.416753374981572, 53.417878088954026]
   }
 },
 {
@@ -709,7 +709,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.6902, 53.3549]
+    "coordinates": [-2.655740910401841, 53.33971788604772]
   }
 },
 {
@@ -724,7 +724,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.5617, 53.4094]
+    "coordinates": [2.5700337340077835, 53.42007270804082]
   }
 },
 {
@@ -739,7 +739,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.4668, 53.6979]
+    "coordinates": [-2.4568070355387257, 53.70411214934167]
   }
 },
 {
@@ -754,7 +754,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.8004, 53.4119]
+    "coordinates": [-2.7948796724088893, 53.407930292026876]
   }
 },
 {
@@ -769,7 +769,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.4384, 53.0978]
+    "coordinates": [-2.4575895587900427, 53.10298833080956]
   }
 },
 {
@@ -784,7 +784,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.0951, 53.5234]
+    "coordinates": [-2.0988084374344522, 53.523428994446924]
   }
 },
 {
@@ -799,7 +799,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.1416, 53.6121]
+    "coordinates": [-2.173031839037627, 53.601272753556344]
   }
 },
 {
@@ -814,7 +814,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.4376, 53.4187]
+    "coordinates": [-2.4339583267120672, 53.419740915323565]
   }
 },
 {
@@ -829,7 +829,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.4302, 53.5331]
+    "coordinates": [-2.4404003255404687, 53.53791655044321]
   }
 },
 {
@@ -844,7 +844,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.5796, 53.3924]
+    "coordinates": [-2.5990662265977935, 53.37611861259443]
   }
 },
 {
@@ -859,7 +859,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.4609, 53.7486]
+    "coordinates": [-2.455207674162363, 53.71608549921224]
   }
 },
 {
@@ -874,7 +874,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.8832, 53.7421]
+    "coordinates": [-2.8797657644454344, 53.75564071749884]
   }
 },
 {
@@ -889,7 +889,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.9413, 53.5169]
+    "coordinates": [-2.9199994022201823, 53.50687344744255]
   }
 },
 {
@@ -901,7 +901,7 @@
     "postcode": "FY6 7QH",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.9986, 53.8486] }
+  "geometry": { "type": "Point", "coordinates": [-3.0145787079769315, 53.84928778633349] }
 },
 {
   "type": "Feature",
