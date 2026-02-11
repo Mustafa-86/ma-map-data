@@ -1203,7 +1203,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-3.8036277318057827, 53.3204846923151]
+    "coordinates": [-3.803059434025548, 53.31915899313069]
   }
 },
 {
@@ -1231,7 +1231,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-3.0094784132346795, 53.22014511222395]
+    "coordinates": [-3.0105126419828143, 53.21991286573974]
   }
 },
 {
@@ -1245,7 +1245,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-3.1572302493727, 53.17389321457968]
+    "coordinates": [-3.156916653071107, 53.17347621966295]
   }
 },
 {
@@ -1263,7 +1263,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.242469, 53.176476]
+    "coordinates": [-2.241697751223327, 53.176773002777885] 
   }
 },
 {
@@ -1280,24 +1280,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.919258, 53.195789]
-  }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "Anwyl Homes North Wales",
-    "sales_name": "Dôl Derwen",
-    "address": [
-      "Gwernaffield Road",
-      "Mold"
-    ],
-    "postcode": "CH7 5DA",
-    "status": "Live"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-3.158458, 53.173549]
+    "coordinates": [-2.9206204456794107, 53.19635675140571]
   }
 },
 {
@@ -1315,7 +1298,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.81432, 52.714707]
+    "coordinates": [-2.814179791733281, 52.71392221410834]
   }
 },
 {
@@ -1333,7 +1316,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.998267, 53.345947]
+    "coordinates": [-2.9992498438226236, 53.34651197954571]  
   }
 },
 {
@@ -1350,7 +1333,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.359504, 53.141275]
+    "coordinates": [-2.360095936650559, 53.141206423913125]
   }
 },
 {
@@ -1368,24 +1351,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.447073, 53.058809]
-  }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "Anwyl Homes North Wales",
-    "sales_name": "Summers Bridge",
-    "address": [
-      "Welsh Road",
-      "Deeside"
-    ],
-    "postcode": "CH5 2FN",
-    "status": "Live"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-3.004388, 53.219023]
+    "coordinates": [-2.4491584917122724, 53.058580168464104]
   }
 },
 {
