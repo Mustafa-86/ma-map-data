@@ -153,7 +153,8 @@
      "geometry": {
         "type": "Point",
       "coordinates": [-2.63512, 53.33902]
-    },{
+    },
+{
   "type": "Feature",
   "properties": {
     "company": "David Wilson Homes North West",
