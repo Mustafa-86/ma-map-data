@@ -433,7 +433,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.0059, 53.3646]
+    "coordinates": [-1.9768708014129277, 53.3646 53.37633120201956]
   }
 },
 {
@@ -447,7 +447,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.6594, 53.5862]
+    "coordinates": [-2.648508935639241, 53.58822326099023]
   }
 },
 {
@@ -461,7 +461,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.7449, 53.8381]
+    "coordinates": [-2.7330072053130356, 53.823388896838885]
   }
 },
 {
@@ -475,7 +475,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.7206, 53.8192]
+    "coordinates": [-2.7168261121564914, 53.80521514685391]
   }
 },
 {
@@ -489,7 +489,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.7259, 53.8157]
+    "coordinates": [-2.7177627963048465, 53.81372085955199]
   }
 },
 {
@@ -503,7 +503,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.8064, 53.8011]
+    "coordinates": [-2.7620821587538975, 53.793219914281295]
   }
 },
 {
@@ -517,7 +517,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-3.0078, 53.8703]
+    "coordinates": [-2.990275197321732, 53.869442643307345]
   }
 },
 {
@@ -531,7 +531,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-3.0286, 53.9142]
+    "coordinates": [-2.9493370416574045, 53.875799857960516]
   }
 },
 {
@@ -545,7 +545,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.6653, 53.6984]
+    "coordinates": [-2.665237322909185, 53.70500785601254]
   }
 },
 {
@@ -559,7 +559,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.7961, 53.5624]
+    "coordinates": [-2.8209438567142375, 53.5577975732774]
   }
 },
 {
@@ -570,11 +570,11 @@
     "address": ["Hollingworth Road", "Littleborough", "Greater Manchester"],
     "postcode": "OL15 0AU",
     "status": "Live",
-    "vistry_region": "Manchester & Cheshire East"
+    "vistry_region": "Manchester & Cheshire East" 
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.0946, 53.6462]
+    "coordinates": [-2.096686020815214, 53.63953868895385]
   }
 },
 {
@@ -589,7 +589,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.4288, 53.4196]
+    "coordinates": [2.4169845927506866, 53.41776899741608]
   }
 },
 {
@@ -604,7 +604,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.1336, 53.2437]
+    "coordinates": [-2.129967382162109, 53.234701002172585]
   }
 },
 {
@@ -619,7 +619,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.4597, 53.7564]
+    "coordinates": [-2.4600180834651626, 53.767935156610015]
   }
 },
 {
@@ -634,7 +634,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.6874, 53.3564]
+    "coordinates": [-2.6522890057313355, 53.340505095609004]
   }
 },
 {
@@ -649,7 +649,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.4668, 53.6979]
+    "coordinates": [-2.4598207850053866, 53.70405293253005]
   }
 },
 
