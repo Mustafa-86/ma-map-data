@@ -206,7 +206,7 @@
         "postcode": "PR26 7TB",
         "status": "Live"
       },
-      "geometry": { "type": "Point", "coordinates": [-2.726004050880666, 53.687553.70350794805681] }
+      "geometry": { "type": "Point", "coordinates": [-2.726004050880666, 53.70350794805681] }
     },
     {
       "type": "Feature",
