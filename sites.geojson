@@ -912,7 +912,7 @@
     "postcode": "L31 2ND",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.9353604291053115, 53.5386 53.528724379828226] }
+  "geometry": { "type": "Point", "coordinates": [-2.9353604291053115, 53.528724379828226] }
 },
 {
   "type": "Feature",
