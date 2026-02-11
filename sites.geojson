@@ -1388,6 +1388,105 @@
     "type": "Point",
     "coordinates": [-2.537172484309665, 53.25892988717577]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Elan Homes Limited",
+    "sales_name": "Redwood Gardens",
+    "address": ["Redwood Boulevard", "Marton Moss", "Blackpool", "Lancashire"],
+    "postcode": "FY4 5GS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.018754, 53.783802] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Elan Homes Limited",
+    "sales_name": "Tower Gardens",
+    "address": ["Milking Lane", "Lower Darwen", "Darwen", "Lancashire"],
+    "postcode": "BB3 0RB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.46806, 53.71872] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Elan Homes Limited",
+    "sales_name": "Garrett Hall Fields",
+    "address": ["Mosley Common", "Wigan", "Greater Manchester"],
+    "postcode": "M29 8SJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.439151, 53.510823] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Elan Homes Limited",
+    "sales_name": "Hollins View",
+    "address": ["Manchester Road", "Hollins Green", "Warrington", "Cheshire"],
+    "postcode": "WA3 6HY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.458463, 53.412532] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Elan Homes Limited",
+    "sales_name": "Oak Grange",
+    "address": ["Congleton", "Cheshire East"],
+    "postcode": "CW12 4ZR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.239498, 53.172257] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Elan Homes Limited",
+    "sales_name": "Birchfield Court",
+    "address": ["Swinton", "Greater Manchester"],
+    "postcode": "M27 5SN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.341786, 53.505317] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Elan Homes Limited",
+    "sales_name": "Hazefields",
+    "address": ["Poynton", "Cheshire East"],
+    "postcode": "SK12 1HE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.130776, 53.350727] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Elan Homes Limited",
+    "sales_name": "St Marks Pavilion",
+    "address": ["Stockport", "Greater Manchester"],
+    "postcode": "SK6 1HS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.084281, 53.426848] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Elan Homes Limited",
+    "sales_name": "Birch Grange",
+    "address": ["Hooton", "Cheshire West and Chester"],
+    "postcode": "CH66 7NH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.980313, 53.295388] }
 }
   ]
 }
