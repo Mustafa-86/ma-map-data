@@ -150,6 +150,8 @@
         "postcode": "WA4 6SU",
         "status": "Coming Soon"
       },
+     "geometry": {
+        "type": "Point",
       "coordinates": [-2.63512, 53.33902]
     },
     {
@@ -161,7 +163,9 @@
         "postcode": "SK10 1LT",
         "status": "Live"
       },
-      "geometry": { "type": "Point", "coordinates": [-2.1262, 53.2584] }
+      "geometry": {
+      "type": "Point",
+      "coordinates": [-2.12298, 53.25584]
     },
     {
       "type": "Feature",
@@ -172,7 +176,9 @@
         "postcode": "L23 1AE",
         "status": "Live"
       },
-      "geometry": { "type": "Point", "coordinates": [-2.9978, 53.4766] }
+       "geometry": {
+      "type": "Point",
+      "coordinates": [-2.99871, 53.47822]
     },
     {
       "type": "Feature",
@@ -183,7 +189,7 @@
         "postcode": "OL16 4PT",
         "status": "Live"
       },
-      "geometry": { "type": "Point", "coordinates": [-2.1384, 53.6142] }
+      "coordinates": [-2.14302, 53.61058]
     },
     {
       "type": "Feature",
