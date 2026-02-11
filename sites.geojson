@@ -189,6 +189,8 @@
         "postcode": "OL16 4PT",
         "status": "Live"
       },
+      "geometry": {
+      "type": "Point",
       "coordinates": [-2.14302, 53.61058]
     },
     {
