@@ -272,7 +272,7 @@
         "postcode": "S35 0DN",
         "status": "Live"
       },
-      "geometry": { "type": "Point", "coordinates": [-1.5358, 53.4639] }
+      "geometry": { "type": "Point", "coordinates": [-1.546344959617455, 53.44427035903114] }
     },
     {
       "type": "Feature",
@@ -283,7 +283,7 @@
         "postcode": "WF3 1TB",
         "status": "Coming Soon"
       },
-      "geometry": { "type": "Point", "coordinates": [-1.5857, 53.7312] }
+      "geometry": { "type": "Point", "coordinates": [-1.5751184832292457, 53.72295593469527] }
     },
     {
       "type": "Feature",
@@ -294,7 +294,7 @@
         "postcode": "WF3 2DL",
         "status": "Live"
       },
-      "geometry": { "type": "Point", "coordinates": [-1.5489, 53.7141] }
+      "geometry": { "type": "Point", "coordinates": [-1.5561242371993305, 53.72940991342805] }
     },
     {
   "type": "Feature",
@@ -307,7 +307,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-3.0412, 53.5569]
+    "coordinates": [-3.0531665356731623, 53.54901640855467]
   }
 },
 {
@@ -321,7 +321,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.1336, 53.2437]
+    "coordinates": [-2.12456995240628, 53.23652631004579]
   }
 },
 {
@@ -335,7 +335,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.6318, 53.3419]
+    "coordinates": [-2.5509009387500194, 53.37431782650941]
   }
 },
 {
@@ -349,7 +349,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.5354, 53.5931]
+    "coordinates": [-2.5579655674400663, 53.592582085846615]
   }
 },
 {
@@ -363,7 +363,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.8763, 53.7824]
+    "coordinates": [-2.8893925337844846, 53.78621568529906] 
   }
 },
 {
@@ -377,7 +377,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.7419, 53.7812]
+    "coordinates": [-2.774095484668213, 53.78754246083173]
   }
 },
 {
@@ -391,7 +391,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.7028, 53.7476]
+    "coordinates": [-2.6947043894868767, 53.73568783005061]
   }
 },
 {
@@ -405,7 +405,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-2.3047, 53.6036]
+    "coordinates": [-2.2983971865904476, 53.61808399819032]
   }
 },
 {
@@ -419,7 +419,7 @@
   },
   "geometry": {
     "type": "Point",
-    "coordinates": [-1.9846, 53.4478]
+    "coordinates": [-1.9724786897362665, 53.44788308679518, ]
   }
 },
 {
