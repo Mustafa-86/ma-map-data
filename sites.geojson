@@ -880,6 +880,138 @@
     "type": "Point",
     "coordinates": [-2.9413, 53.5169]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bellway North West",
+    "sales_name": "Poulton Rise",
+    "address": ["Blackpool Road", "Poulton-le-Fylde", "Lancashire"],
+    "postcode": "FY6 7QH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.9986, 53.8486] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bellway North West",
+    "sales_name": "Lydiate Gate",
+    "address": ["Liverpool Road", "Lydiate", "Merseyside"],
+    "postcode": "L31 2ND",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.9251, 53.5386] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bellway North West",
+    "sales_name": "Mountain View",
+    "address": ["Gatewen Road", "New Broughton", "Wrexham"],
+    "postcode": "LL11 6UY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.0467, 53.0582] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bellway North West",
+    "sales_name": "The Landings",
+    "address": ["Burtonwood Road", "Warrington", "Cheshire"],
+    "postcode": "WA5 3ZH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.6859, 53.4091] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bellway North West",
+    "sales_name": "Somerford Gate",
+    "address": ["Black Firs Lane", "Congleton", "Cheshire"],
+    "postcode": "CW12 4YJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1994, 53.1618] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bellway North West",
+    "sales_name": "Holt Vale",
+    "address": ["Holt Road", "Wrexham"],
+    "postcode": "LL13 9EE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.9609, 53.0476] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bellway North West",
+    "sales_name": "Lathom Pastures",
+    "address": ["Neverstitch Road", "Lathom", "Lancashire"],
+    "postcode": "WN8 8FD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.7881, 53.5649] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bellway North West",
+    "sales_name": "Alderstone Park",
+    "address": ["Garstang Road", "Great Eccleston", "Lancashire"],
+    "postcode": "PR3 0YG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.8827, 53.8537] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bellway North West",
+    "sales_name": "Halewood Oaks",
+    "address": ["Baileys Lane", "Halewood", "Merseyside"],
+    "postcode": "L26 0TY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.8394, 53.3682] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bellway North West",
+    "sales_name": "St Wilfrid's Place",
+    "address": ["Hawthorne Road", "Litherland", "Merseyside"],
+    "postcode": "L21 8QS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.9873, 53.4792] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bellway North West",
+    "sales_name": "Summers Bridge",
+    "address": ["Bayley Road", "Sealand", "Deeside", "Flintshire"],
+    "postcode": "CH5 2GH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.0432, 53.2046] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bellway North West",
+    "sales_name": "Carnatic Park",
+    "address": ["Elmswood Road", "Mossley Hill", "Liverpool", "Merseyside"],
+    "postcode": "L18 8DU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.9151, 53.3804] }
 }
   ]
 }
