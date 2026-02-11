@@ -1191,6 +1191,62 @@
     "type": "Point",
     "coordinates": [-1.6040163065289277, 53.714893112885115]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Anwyl Homes North Wales",
+    "sales_name": "Parc Bodafon",
+    "address": ["Nant y Gamar Road", "Llandudno"],
+    "postcode": "LL30 1YE",
+    "status": "Active"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [0.00000, 0.00000]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Anwyl Homes North Wales",
+    "sales_name": "Croes Atti",
+    "address": ["A548 Chester Road", "Oakenholt"],
+    "postcode": "CH6 5WN",
+    "status": "Active"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.114187575989167, 53.237180901288404]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Anwyl Homes North Wales",
+    "sales_name": "Summers Bridge",
+    "address": ["Welsh Road", "Deeside"],
+    "postcode": "CH5 2FN",
+    "status": "Active"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.0094784132346795, 53.22014511222395]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Anwyl Homes North Wales",
+    "sales_name": "Dôl Derwen",
+    "address": ["Gwernaffield Road", "Mold"],
+    "postcode": "CH7 5DA",
+    "status": "Active"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [3.1572302493727, 53.17389321457968]
+  }
 }
   ]
 }
