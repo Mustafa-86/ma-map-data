@@ -1487,6 +1487,105 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-2.980313, 53.295388] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "McDermott Homes Ltd",
+    "sales_name": "Meadow Gate",
+    "address": ["White Carr Lane", "Thornton-Cleveleys", "Lancashire"],
+    "postcode": "FY5 3UN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.0157, 53.8716] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "McDermott Homes Ltd",
+    "sales_name": "Highbury Meadow",
+    "address": ["Copp Lane", "Elswick", "Lancashire"],
+    "postcode": "PR4 3ZD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.8844, 53.8323] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "McDermott Homes Ltd",
+    "sales_name": "Greenacres Farm",
+    "address": ["Goosnargh Lane", "Goosnargh", "Lancashire"],
+    "postcode": "PR3 2BP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.6594, 53.8136] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "McDermott Homes Ltd",
+    "sales_name": "Freshfields",
+    "address": ["Moss Nook Drive", "Grimsargh", "Lancashire"],
+    "postcode": "PR2 5TR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.6207, 53.7784] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "McDermott Homes Ltd",
+    "sales_name": "Off Redlam Brow",
+    "address": ["Redlam Brow", "Blackburn", "Lancashire"],
+    "postcode": "BB2 2PQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.5116, 53.7317] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "McDermott Homes Ltd",
+    "sales_name": "Miners Gate",
+    "address": ["Ellison Fold Way", "Darwen", "Lancashire"],
+    "postcode": "BB3 3ED",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4758, 53.6993] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "McDermott Homes Ltd",
+    "sales_name": "Fieldfare Way",
+    "address": ["Fieldfare Way", "Bacup", "Lancashire"],
+    "postcode": "OL13 9PP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2029, 53.7046] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "McDermott Homes Ltd",
+    "sales_name": "Oaken Heights",
+    "address": ["Standen Hall Drive", "Burnley", "Lancashire"],
+    "postcode": "BB10 2EF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2274, 53.7933] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "McDermott Homes Ltd",
+    "sales_name": "Church Meadows",
+    "address": ["Wheatley Road", "Barrowford", "Lancashire"],
+    "postcode": "BB9 6QS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2132, 53.8427] }
 }
   ]
 }
