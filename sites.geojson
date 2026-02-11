@@ -141,19 +141,6 @@
         "coordinates": [-2.71691, 53.68442]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "company": "David Wilson Homes North West",
-        "sales_name": "Queens Reach",
-        "address": ["Keckwick Lane", "Daresbury", "Warrington"],
-        "postcode": "WA4 6SU",
-        "status": "Coming Soon"
-      },
-     "geometry": {
-        "type": "Point",
-      "coordinates": [-2.63512, 53.33902]
-    },
 {
   "type": "Feature",
   "properties": {
