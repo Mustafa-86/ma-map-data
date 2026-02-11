@@ -1247,6 +1247,181 @@
     "type": "Point",
     "coordinates": [-3.1572302493727, 53.17389321457968]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Anwyl Homes North Wales",
+    "sales_name": "Elmy Fields",
+    "address": [
+      "Off Radnor Roundabout",
+      "Wolstenholme Elmy Way",
+      "Congleton"
+    ],
+    "postcode": "CW12 4GB",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.242469, 53.176476]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Anwyl Homes North Wales",
+    "sales_name": "Deva Green",
+    "address": [
+      "Clifton Drive",
+      "Chester"
+    ],
+    "postcode": "CH1 4LG",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.919258, 53.195789]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Anwyl Homes North Wales",
+    "sales_name": "Dôl Derwen",
+    "address": [
+      "Gwernaffield Road",
+      "Mold"
+    ],
+    "postcode": "CH7 5DA",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.158458, 53.173549]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Anwyl Homes North Wales",
+    "sales_name": "Five Oaks",
+    "address": [
+      "Gains Park Way",
+      "Bicton Heath",
+      "Shrewsbury"
+    ],
+    "postcode": "SY3 5HT",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.81432, 52.714707]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Anwyl Homes North Wales",
+    "sales_name": "Lottie Gardens",
+    "address": [
+      "Quarry Road East",
+      "Bebington",
+      "Wirral"
+    ],
+    "postcode": "CH63 3JW",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.998267, 53.345947]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Anwyl Homes North Wales",
+    "sales_name": "Palmer’s Cross",
+    "address": [
+      "Off Old Mill Road",
+      "Sandbach"
+    ],
+    "postcode": "CW11 4HD",
+    "status": "Coming Soon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.359504, 53.141275]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Anwyl Homes North Wales",
+    "sales_name": "Queen’s Meadow",
+    "address": [
+      "Newcastle Road",
+      "Shavington",
+      "Crewe"
+    ],
+    "postcode": "CW2 5EB",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.447073, 53.058809]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Anwyl Homes North Wales",
+    "sales_name": "Summers Bridge",
+    "address": [
+      "Welsh Road",
+      "Deeside"
+    ],
+    "postcode": "CH5 2FN",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.004388, 53.219023]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Anwyl Homes North Wales",
+    "sales_name": "Weaver Forge",
+    "address": [
+      "Peter De Stapleigh Way",
+      "Stapeley",
+      "Nantwich"
+    ],
+    "postcode": "CW4 7TU",
+    "status": "Coming Soon"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.506353, 53.058963]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Anwyl Homes North Wales",
+    "sales_name": "Winnington Place",
+    "address": [
+      "Winnington Avenue",
+      "Northwich"
+    ],
+    "postcode": "CW8 4FT",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.538762, 53.257157]
+  }
 }
   ]
 }
