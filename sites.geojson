@@ -217,7 +217,7 @@
         "postcode": "CW5 7TU",
         "status": "Live"
       },
-      "geometry": { "type": "Point", "coordinates": [-2.5074, 53.0486] }
+      "geometry": { "type": "Point", "coordinates": [-2.5063072711646748, 53.05906731865464] }
     },
     {
       "type": "Feature",
