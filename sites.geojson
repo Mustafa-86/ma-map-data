@@ -1715,6 +1715,113 @@
     "type": "Point",
     "coordinates": [-2.4006, 53.5518]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Northwest Limited",
+    "sales_name": "Thorley Glade",
+    "address": [
+      "Timperley",
+      "Hale",
+      "Greater Manchester"
+    ],
+    "postcode": "WA15 7PJ",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.3275, 53.3898]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Northwest Limited",
+    "sales_name": "Aspen Row",
+    "address": [
+      "Great Sankey",
+      "Warrington",
+      "Cheshire"
+    ],
+    "postcode": "WA5 3ZT",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.6407, 53.3926]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Northwest Limited",
+    "sales_name": "Byron View",
+    "address": [
+      "Charlestown",
+      "Blackley",
+      "Manchester"
+    ],
+    "postcode": "M9 7FS",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.2169, 53.5188]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Northwest Limited",
+    "sales_name": "Dial House Place",
+    "address": [
+      "Rainford",
+      "St Helens",
+      "Merseyside"
+    ],
+    "postcode": "WA11 8EQ",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.7905, 53.5023]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Northwest Limited",
+    "sales_name": "Lunts Heath Rise",
+    "address": [
+      "Widnes",
+      "Cheshire"
+    ],
+    "postcode": "WA8 5RY",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.7378, 53.3644]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Northwest Limited",
+    "sales_name": "Rookery Place",
+    "address": [
+      "Rainford",
+      "St Helens",
+      "Merseyside"
+    ],
+    "postcode": "WA11 8EQ",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.7905, 53.5023]
+  }
 }
   ]
 }
