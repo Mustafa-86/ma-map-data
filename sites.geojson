@@ -2433,6 +2433,138 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.7946, 52.4201] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Ravenswood Reach",
+    "address": ["Ravenshead", "Nottingham", "Nottinghamshire"],
+    "postcode": "NG15 9AG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.160936, 53.07995] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Loxley Rise",
+    "address": ["Fairham", "Nottingham", "Nottinghamshire"],
+    "postcode": "NG11 9GE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.188859, 52.894235] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Foxmere Chase",
+    "address": ["Melton Mowbray", "Leicestershire"],
+    "postcode": "LE14 4JL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.903657, 52.858576] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Hillcrest Gardens",
+    "address": ["Croxton Kerrial", "Leicestershire"],
+    "postcode": "NG32 1QG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.757614, 52.853201] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Pear Tree Fields",
+    "address": ["Ratby", "Leicestershire"],
+    "postcode": "LE6 0LS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.250714, 52.654569] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Sheldon Pines",
+    "address": ["Northfield", "Birmingham", "West Midlands"],
+    "postcode": "B31 5EJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.993216, 52.404442] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Willow Grove",
+    "address": ["Coventry", "Warwickshire"],
+    "postcode": "CV5 9AP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.597142, 52.429704] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Oak Grove",
+    "address": ["Cambridge Road", "Dunton", "Bedfordshire"],
+    "postcode": "SG18 8SB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.191745, 52.086531] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Maple Rise",
+    "address": ["Houghton Regis", "Dunstable", "Bedfordshire"],
+    "postcode": "LU5 6JQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.538194, 51.912863] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "St James View",
+    "address": ["Brackley", "Northamptonshire"],
+    "postcode": "NN13 6BL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.161455, 52.029975] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Weston Gate",
+    "address": ["Swindon", "Wiltshire"],
+    "postcode": "SN3 6GP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.730169, 51.541485] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Roman Gate",
+    "address": ["Ross-on-Wye", "Herefordshire"],
+    "postcode": "HR9 7PD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.532584, 51.905734] }
 }
   ]
 }
