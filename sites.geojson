@@ -1586,6 +1586,135 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-2.2132, 53.8427] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Duchy Homes Limited",
+    "sales_name": "Holtwood Green",
+    "address": [
+      "Manchester Old Road",
+      "Middleton",
+      "Greater Manchester"
+    ],
+    "postcode": "M24 4PE",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.1709, 53.5558]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Kellen Homes Ltd",
+    "sales_name": "Mill Vale",
+    "address": [
+      "Don Street",
+      "Off Oldham Road",
+      "Middleton",
+      "Greater Manchester"
+    ],
+    "postcode": "M24 2GG",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.1634, 53.5475]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Kellen Homes Ltd",
+    "sales_name": "Hawks View",
+    "address": [
+      "Castleton",
+      "Rochdale",
+      "Greater Manchester"
+    ],
+    "postcode": "OL11 3BZ",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.1682, 53.6380]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Westchurch Homes",
+    "sales_name": "Atlas Street",
+    "address": [
+      "Atlas Street",
+      "St Helens",
+      "Merseyside"
+    ],
+    "postcode": "WA9 1LA",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.7367, 53.4546]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Westchurch Homes",
+    "sales_name": "Brunswick Street",
+    "address": [
+      "Brunswick Street",
+      "Heywood",
+      "Greater Manchester"
+    ],
+    "postcode": "OL10 1EZ",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.2174, 53.5908]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Westchurch Homes",
+    "sales_name": "Inverbeg Drive",
+    "address": [
+      "Inverbeg Drive",
+      "Breightmet",
+      "Bolton",
+      "Greater Manchester"
+    ],
+    "postcode": "BL2 6NA",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.3769, 53.5903]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Westchurch Homes",
+    "sales_name": "Century Mill",
+    "address": [
+      "Century Mill",
+      "Farnworth",
+      "Bolton",
+      "Greater Manchester"
+    ],
+    "postcode": "BL4 9QT",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.4006, 53.5518]
+  }
 }
   ]
 }
