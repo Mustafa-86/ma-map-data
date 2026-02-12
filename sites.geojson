@@ -1398,7 +1398,7 @@
     "postcode": "FY4 5GS",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-3.018754, 53.783802] }
+  "geometry": { "type": "Point", "coordinates": [-3.0186146212479668, 53.78591232753253] }
 },
 {
   "type": "Feature",
@@ -1409,7 +1409,7 @@
     "postcode": "BB3 0RB",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.46806, 53.71872] }
+  "geometry": { "type": "Point", "coordinates": [-2.46582636789066, 53.719946697537196] }
 },
 {
   "type": "Feature",
@@ -1420,7 +1420,7 @@
     "postcode": "M29 8SJ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.439151, 53.510823] }
+  "geometry": { "type": "Point", "coordinates": [-2.437005223168846, 53.511100308648004] }
 },
 {
   "type": "Feature",
@@ -1431,7 +1431,7 @@
     "postcode": "WA3 6HY",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.458463, 53.412532] }
+  "geometry": { "type": "Point", "coordinates": [-2.459102597718427, 53.41209859919787] }
 },
 {
   "type": "Feature",
@@ -1442,7 +1442,7 @@
     "postcode": "CW12 4ZR",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.239498, 53.172257] }
+  "geometry": { "type": "Point", "coordinates": [-2.2353448598508816, 53.173707713996386] }
 },
 {
   "type": "Feature",
@@ -1453,7 +1453,7 @@
     "postcode": "M27 5SN",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.341786, 53.505317] }
+  "geometry": { "type": "Point", "coordinates": [-2.339681720929819, 53.50579588840746] }
 },
 {
   "type": "Feature",
@@ -1464,7 +1464,7 @@
     "postcode": "SK12 1HE",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.130776, 53.350727] }
+  "geometry": { "type": "Point", "coordinates": [-2.1284563062826725, 53.35159350226602] }
 },
 {
   "type": "Feature",
@@ -1475,7 +1475,7 @@
     "postcode": "SK6 1HS",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.084281, 53.426848] }
+  "geometry": { "type": "Point", "coordinates": [-2.080971790314845, 53.42726679176007] }
 },
 {
   "type": "Feature",
@@ -1486,7 +1486,7 @@
     "postcode": "CH66 7NH",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.980313, 53.295388] }
+  "geometry": { "type": "Point", "coordinates": [-2.979803236451689, 53.29730343466897] }
 },
 {
   "type": "Feature",
