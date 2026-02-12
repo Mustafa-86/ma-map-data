@@ -2122,6 +2122,143 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-2.2079, 52.2228] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Owl Homes",
+    "sales_name": "Waltonbrook",
+    "address": [
+      "Sowters Lane",
+      "Off Melton Road",
+      "Burton on the Wolds",
+      "Leicestershire"
+    ],
+    "postcode": "LE12 5TS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.0792, 52.7614] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Owl Homes",
+    "sales_name": "The Doves",
+    "address": [
+      "Marston Lane",
+      "Doveridge",
+      "Derbyshire"
+    ],
+    "postcode": "DE6 5JS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.7926, 52.9181] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Owl Homes",
+    "sales_name": "Lindley Walk",
+    "address": [
+      "Wood Lane",
+      "Higham on the Hill",
+      "Leicestershire"
+    ],
+    "postcode": "CV13 6AA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4438, 52.5679] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Owl Homes",
+    "sales_name": "Kings Richards Wharf",
+    "address": [
+      "Station Road",
+      "Market Bosworth",
+      "Leicestershire"
+    ],
+    "postcode": "CV13 0PG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4075, 52.6224] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Owl Homes",
+    "sales_name": "Willowbank Meadows",
+    "address": [
+      "Willowbank Road",
+      "Tewkesbury",
+      "Gloucestershire"
+    ],
+    "postcode": "GL20 8NJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1536, 51.9993] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Owl Homes",
+    "sales_name": "Oakwood",
+    "address": [
+      "Wykin Lane",
+      "Stoke Golding",
+      "Leicestershire"
+    ],
+    "postcode": "CV13 6HN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4061, 52.6122] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Owl Homes",
+    "sales_name": "Springwell Park",
+    "address": [
+      "Newland Road",
+      "Droitwich",
+      "Worcestershire"
+    ],
+    "postcode": "WR9 7JQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1627, 52.2725] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Owl Homes",
+    "sales_name": "Spire Mews",
+    "address": [
+      "Old Road",
+      "Chesterfield",
+      "Derbyshire"
+    ],
+    "postcode": "S40 3QT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4406, 53.2359] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Owl Homes",
+    "sales_name": "Madeley Grange",
+    "address": [
+      "Bar Hill",
+      "Madeley",
+      "Newcastle-under-Lyme",
+      "Staffordshire"
+    ],
+    "postcode": "CW3 9QE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.3497, 52.9886] }
 }
   ]
 }
