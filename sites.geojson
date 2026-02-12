@@ -1894,6 +1894,97 @@
     "type": "Point",
     "coordinates": [-2.5941, 53.3442]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes Severn Valley",
+    "sales_name": "Bordesley Manor",
+    "address": [
+      "Bordesley Manor",
+      "Alvechurch",
+      "Worcestershire"
+    ],
+    "postcode": "B48 7ES",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.9607, 52.4147]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes Severn Valley",
+    "sales_name": "The Green",
+    "address": [
+      "Dog Kennel Lane",
+      "Shirley",
+      "Solihull"
+    ],
+    "postcode": "B90 4FJ",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.8178, 52.4117]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes Severn Valley",
+    "sales_name": "Hillwood Gardens",
+    "address": [
+      "Banner Lane",
+      "Coventry",
+      "West Midlands"
+    ],
+    "postcode": "CV4 9GH",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.5075, 52.4106]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes Severn Valley",
+    "sales_name": "Buttercup View",
+    "address": [
+      "Mile Bank Road",
+      "Whitchurch",
+      "Shropshire"
+    ],
+    "postcode": "SY13 4JT",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.6739, 52.9891]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes Severn Valley",
+    "sales_name": "Shropshire Heights",
+    "address": [
+      "Mucklestone Road",
+      "Loggerheads",
+      "Market Drayton",
+      "Shropshire"
+    ],
+    "postcode": "TF9 4DJ",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.4912, 52.9665]
+  }
 }
   ]
 }
