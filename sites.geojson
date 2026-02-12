@@ -1822,6 +1822,78 @@
     "type": "Point",
     "coordinates": [-2.7905, 53.5023]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Castle Green Homes North West",
+    "sales_name": "Orchard Place",
+    "address": [
+      "Hollow Drive",
+      "Thornton",
+      "Liverpool"
+    ],
+    "postcode": "L23 4AD",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.9502, 53.4827]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Castle Green Homes North West",
+    "sales_name": "Woodland Manor",
+    "address": [
+      "Barn Road",
+      "Congleton",
+      "Cheshire East"
+    ],
+    "postcode": "CW12 1TT",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.2294, 53.1625]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Castle Green Homes North West",
+    "sales_name": "Hawthorn Meadows",
+    "address": [
+      "Well Street",
+      "Buckley",
+      "Flintshire"
+    ],
+    "postcode": "CH7 2PQ",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-3.1579, 53.1817]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Castle Green Homes North West",
+    "sales_name": "Bridgewater View",
+    "address": [
+      "Lower Hayes",
+      "Daresbury",
+      "Cheshire"
+    ],
+    "postcode": "WA4 4GT",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.5941, 53.3442]
+  }
 }
   ]
 }
