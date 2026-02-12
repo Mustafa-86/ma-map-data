@@ -2313,6 +2313,126 @@
     "type": "Point",
     "coordinates": [-1.186782, 52.357696]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Orbit Homes Limited",
+    "sales_name": "Dovecote Gardens",
+    "address": [
+      "Linnet Road",
+      "Old Catton",
+      "Norfolk"
+    ],
+    "postcode": "NR6 7GH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [1.3008, 52.6632] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Orbit Homes Limited",
+    "sales_name": "Felix Park",
+    "address": [
+      "Off Regal Lane",
+      "Soham",
+      "Cambridgeshire"
+    ],
+    "postcode": "CB7 5BA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.3276, 52.3349] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Orbit Homes Limited",
+    "sales_name": "Homestead Park",
+    "address": [
+      "The Street",
+      "Stonham Aspal",
+      "Suffolk"
+    ],
+    "postcode": "IP14 6AN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [1.0897, 52.2475] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Orbit Homes Limited",
+    "sales_name": "Micklewell Park",
+    "address": [
+      "Ashby Road",
+      "Daventry",
+      "Northamptonshire"
+    ],
+    "postcode": "NN11 8JZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.2628, 52.2559] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Orbit Homes Limited",
+    "sales_name": "Mill View",
+    "address": [
+      "Greenfields Road",
+      "East Dereham",
+      "Norfolk"
+    ],
+    "postcode": "NR20 3TE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.9365, 52.6834] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Orbit Homes Limited",
+    "sales_name": "Pearson Heights",
+    "address": [
+      "Ivydene Avenue",
+      "Whitstable",
+      "Kent"
+    ],
+    "postcode": "CT5 3FS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [1.0337, 51.3584] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Orbit Homes Limited",
+    "sales_name": "St James Gate",
+    "address": [
+      "Coventry Road",
+      "Bulkington",
+      "Warwickshire"
+    ],
+    "postcode": "CV12 9NJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4317, 52.4782] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Orbit Homes Limited",
+    "sales_name": "Woodlands Valley",
+    "address": [
+      "Fallow Road",
+      "Rothwell",
+      "Northamptonshire"
+    ],
+    "postcode": "NN14 6FS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.7946, 52.4201] }
 }
   ]
 }
