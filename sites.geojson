@@ -2259,6 +2259,60 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-2.3497, 52.9886] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Morris Homes Midlands",
+    "sales_name": "Arden Park",
+    "address": [
+      "Far Moor Lane",
+      "Redditch",
+      "Worcestershire"
+    ],
+    "postcode": "B98 0GG",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.877001, 52.305299]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Morris Homes Midlands",
+    "sales_name": "Station Grange",
+    "address": [
+      "London Road",
+      "Coventry",
+      "West Midlands"
+    ],
+    "postcode": "CV3 4DA",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.476281, 52.385755]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Morris Homes Midlands",
+    "sales_name": "Houlton",
+    "address": [
+      "Dollman Road",
+      "Rugby",
+      "Warwickshire"
+    ],
+    "postcode": "CV23 1AH",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.186782, 52.357696]
+  }
 }
   ]
 }
