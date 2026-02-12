@@ -1985,6 +1985,143 @@
     "type": "Point",
     "coordinates": [-2.3983415285303935, 52.924486080562026]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lioncourt Homes",
+    "sales_name": "Priory Meadows",
+    "address": [
+      "Hempstead Lane",
+      "Hempsted",
+      "Gloucestershire"
+    ],
+    "postcode": "GL2 5JN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2634, 51.8526] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lioncourt Homes",
+    "sales_name": "The Furrows",
+    "address": [
+      "Gretton Road",
+      "Gotherington",
+      "Tewkesbury",
+      "Gloucestershire"
+    ],
+    "postcode": "GL52 9QU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.0671, 51.9524] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lioncourt Homes",
+    "sales_name": "Heritage Walk",
+    "address": [
+      "Beech Road",
+      "Ironbridge",
+      "Telford"
+    ],
+    "postcode": "TF7 5LE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4806, 52.6289] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lioncourt Homes",
+    "sales_name": "Westlands View",
+    "address": [
+      "Clayton Road",
+      "Newcastle-under-Lyme",
+      "Staffordshire"
+    ],
+    "postcode": "ST5 4AF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2368, 53.0115] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lioncourt Homes",
+    "sales_name": "The Croft",
+    "address": [
+      "Bennetts Road North",
+      "Keresley",
+      "Coventry"
+    ],
+    "postcode": "CV7 8JX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5259, 52.4573] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lioncourt Homes",
+    "sales_name": "Martley Fields",
+    "address": [
+      "Berrow Green Road",
+      "Martley",
+      "Worcestershire"
+    ],
+    "postcode": "WR6 6PQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.3684, 52.2297] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lioncourt Homes",
+    "sales_name": "The Green",
+    "address": [
+      "Claphill Lane",
+      "Rushwick",
+      "Worcestershire"
+    ],
+    "postcode": "WR2 5TP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2451, 52.1903] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lioncourt Homes",
+    "sales_name": "The Hamlet",
+    "address": [
+      "Leigh Sinton",
+      "Malvern",
+      "Worcestershire"
+    ],
+    "postcode": "WR13 5HH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2958, 52.1624] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lioncourt Homes",
+    "sales_name": "Foxwood Place",
+    "address": [
+      "Dilmore Lane",
+      "North Claines",
+      "Fernhill Heath",
+      "Worcestershire"
+    ],
+    "postcode": "WR3 7RX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2079, 52.2228] }
 }
   ]
 }
