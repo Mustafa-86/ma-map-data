@@ -2619,6 +2619,191 @@
     "type": "Point",
     "coordinates": [-1.820373, 52.682716]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Redrow Homes Yorkshire",
+    "sales_name": "Kingsley Manor",
+    "address": [
+      "Wildrose Drive",
+      "Harrogate",
+      "North Yorkshire"
+    ],
+    "postcode": "HG1 4FZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.513234, 54.004095] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Redrow Homes Yorkshire",
+    "sales_name": "Centurian Fields",
+    "address": [
+      "Manston Lane",
+      "Leeds",
+      "West Yorkshire"
+    ],
+    "postcode": "LS15 8ST",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.428413, 53.806052] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Redrow Homes Yorkshire",
+    "sales_name": "The Glade at Woodland Vale",
+    "address": [
+      "Haigh Moor Road",
+      "Wakefield",
+      "West Yorkshire"
+    ],
+    "postcode": "WF3 1EF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.569642, 53.718935] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Redrow Homes Yorkshire",
+    "sales_name": "Meadow Vale",
+    "address": [
+      "Bradford Road",
+      "Huddersfield",
+      "West Yorkshire"
+    ],
+    "postcode": "HD2 2JY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.775629, 53.680218] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Redrow Homes Yorkshire",
+    "sales_name": "Broadstone Manor",
+    "address": [
+      "Huddersfield Road",
+      "Diggle",
+      "Oldham",
+      "Greater Manchester"
+    ],
+    "postcode": "OL3 5HU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.021191, 53.571131] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Redrow Homes Yorkshire",
+    "sales_name": "Bishop Meadows",
+    "address": [
+      "Greencroft Meadow",
+      "Royton",
+      "Oldham",
+      "Greater Manchester"
+    ],
+    "postcode": "OL2 6LQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.108772, 53.570015] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Redrow Homes Yorkshire",
+    "sales_name": "Poppy Fields",
+    "address": [
+      "Moor Lane South",
+      "Rotherham",
+      "South Yorkshire"
+    ],
+    "postcode": "S65 4QQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.267418, 53.435728] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Redrow Homes Yorkshire",
+    "sales_name": "Highgrove Gardens",
+    "address": [
+      "The Balk",
+      "Pocklington",
+      "York",
+      "North Yorkshire"
+    ],
+    "postcode": "YO42 2NY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.771337, 53.920158] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Redrow Homes Yorkshire",
+    "sales_name": "Worden Gardens",
+    "address": [
+      "Leyland Lane",
+      "Leyland",
+      "Lancashire"
+    ],
+    "postcode": "PR25 1LA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.717555, 53.679035] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Redrow Homes Yorkshire",
+    "sales_name": "Woodland Chase",
+    "address": [
+      "Doctors Lane",
+      "Eccleston",
+      "Chorley",
+      "Lancashire"
+    ],
+    "postcode": "PR7 5QZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.732871, 53.646564] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Duchy Homes Yorkshire",
+    "sales_name": "Manor Grange",
+    "address": [
+      "Well Lane",
+      "Willerby",
+      "East Riding of Yorkshire"
+    ],
+    "postcode": "HU10 6EP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.446728, 53.761333] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Duchy Homes Yorkshire",
+    "sales_name": "Scholars Gate",
+    "address": [
+      "Darton Lane",
+      "Darton",
+      "Barnsley",
+      "South Yorkshire"
+    ],
+    "postcode": "S75 5AL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.51616, 53.584511] }
 }
   ]
 }
