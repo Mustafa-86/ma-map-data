@@ -3099,6 +3099,67 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.435778, 54.998203] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Duchy Homes NE",
+    "sales_name": "Hall Wood Meadows",
+    "address": [
+      "Cedar Drive",
+      "Yarm",
+      "North Yorkshire"
+    ],
+    "postcode": "TS15 9YW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.320944, 54.506772] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Duchy Homes NE",
+    "sales_name": "The Meadows",
+    "address": [
+      "Meadowsweet Lane",
+      "Sunderland",
+      "Tyne and Wear"
+    ],
+    "postcode": "SR3 2GR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.438221, 54.873024] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Duchy Homes NE",
+    "sales_name": "Elwick Park",
+    "address": [
+      "Elwick Road",
+      "Elwick",
+      "Hartlepool",
+      "County Durham"
+    ],
+    "postcode": "TS26 0GG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.279403, 54.710613] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Duchy Homes NE",
+    "sales_name": "The Hollies",
+    "address": [
+      "Wynyard",
+      "Stockton-on-Tees",
+      "County Durham"
+    ],
+    "postcode": "TS22 5TR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.344118, 54.607394] }
 }
   ]
 }
