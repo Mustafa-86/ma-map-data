@@ -2804,6 +2804,43 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.51616, 53.584511] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Duchy Homes Yorkshire",
+    "sales_name": "Manor Grange",
+    "address": [
+      "Well Lane",
+      "Willerby",
+      "East Riding of Yorkshire"
+    ],
+    "postcode": "HU10 6EP",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0.446728, 53.761333]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Duchy Homes Yorkshire",
+    "sales_name": "Scholars Gate",
+    "address": [
+      "Darton Lane",
+      "Darton",
+      "Barnsley",
+      "South Yorkshire"
+    ],
+    "postcode": "S75 5AL",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.516160, 53.584511]
+  }
 }
   ]
 }
