@@ -2565,6 +2565,60 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-2.532584, 51.905734] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Elan Homes Limited",
+    "sales_name": "Millbridge",
+    "address": [
+      "Main Road",
+      "Shuttington",
+      "North Warwickshire"
+    ],
+    "postcode": "B79 0DP",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.625191, 52.645314]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Elan Homes Limited",
+    "sales_name": "Sandbourne Gardens",
+    "address": [
+      "Stourport Road",
+      "Bewdley",
+      "Worcestershire"
+    ],
+    "postcode": "DY12 1BL",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-2.305432, 52.37348]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Elan Homes Limited",
+    "sales_name": "The Sidings",
+    "address": [
+      "Rotten Row",
+      "Lichfield",
+      "Staffordshire"
+    ],
+    "postcode": "WS13 6JB",
+    "status": "Live"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-1.820373, 52.682716]
+  }
 }
   ]
 }
