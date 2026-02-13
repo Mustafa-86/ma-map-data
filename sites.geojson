@@ -2841,6 +2841,164 @@
     "type": "Point",
     "coordinates": [-1.516160, 53.584511]
   }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Teesside Limited",
+    "sales_name": "Portside Village",
+    "address": [
+      "Middlesbrough",
+      "North Yorkshire"
+    ],
+    "postcode": "TS6 6TR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.161854, 54.571885] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Teesside Limited",
+    "sales_name": "Woodcross Gate",
+    "address": [
+      "Normanby",
+      "Middlesbrough",
+      "North Yorkshire"
+    ],
+    "postcode": "TS6 0NN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.104384, 54.557193] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Teesside Limited",
+    "sales_name": "Beckside Manor",
+    "address": [
+      "Ingleby Barwick",
+      "Stockton-on-Tees",
+      "County Durham"
+    ],
+    "postcode": "TS17 0FA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.340811, 54.518991] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Teesside Limited",
+    "sales_name": "Pearwood Gardens",
+    "address": [
+      "Eaglescliffe",
+      "Stockton-on-Tees",
+      "County Durham"
+    ],
+    "postcode": "TS16 0RW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.349471, 54.516297] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Teesside Limited",
+    "sales_name": "Beaconfield Rise",
+    "address": [
+      "Marske-by-the-Sea",
+      "Redcar and Cleveland"
+    ],
+    "postcode": "TS11 8LB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.018405, 54.589172] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Teesside Limited",
+    "sales_name": "Hartside View",
+    "address": [
+      "Hartlepool",
+      "County Durham"
+    ],
+    "postcode": "TS26 0BF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.231408, 54.698436] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Teesside Limited",
+    "sales_name": "Windlestone Point",
+    "address": [
+      "Chilton",
+      "County Durham"
+    ],
+    "postcode": "DL17 0EH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.408541, 54.702932] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Teesside Limited",
+    "sales_name": "Westville Quarter",
+    "address": [
+      "Darlington",
+      "County Durham"
+    ],
+    "postcode": "DL2 2XA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.588844, 54.535405] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Teesside Limited",
+    "sales_name": "Seaham Garden Village",
+    "address": [
+      "Seaham",
+      "County Durham"
+    ],
+    "postcode": "SR7 8FB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.352515, 54.830941] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Teesside Limited",
+    "sales_name": "Allerton Gate",
+    "address": [
+      "Northallerton",
+      "North Yorkshire"
+    ],
+    "postcode": "DL6 1RG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.432732, 54.339921] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Teesside Limited",
+    "sales_name": "Bishops Walk",
+    "address": [
+      "Bent House",
+      "Durham",
+      "County Durham"
+    ],
+    "postcode": "DH1 2FA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.556841, 54.770193] }
 }
   ]
 }
