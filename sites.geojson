@@ -3160,6 +3160,160 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.344118, 54.607394] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes South West",
+    "sales_name": "Mulgrove Farm",
+    "address": ["Harry Stoke", "Bristol"],
+    "postcode": "BS34 8BU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.52854, 51.518258] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes South West",
+    "sales_name": "Lister Gardens",
+    "address": ["Dursley", "Gloucestershire"],
+    "postcode": "GL11 5FB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.361907, 51.716138] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes South West",
+    "sales_name": "Horizon",
+    "address": ["Westbury", "Wiltshire"],
+    "postcode": "BA13 3RX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.192209, 51.249287] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes South West",
+    "sales_name": "Higher Trewhiddle",
+    "address": ["St Austell", "Cornwall"],
+    "postcode": "PL25 5HJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-4.804887, 50.333489] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes South West",
+    "sales_name": "Lark View",
+    "address": ["Liskeard", "Cornwall"],
+    "postcode": "PL14 3FG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-4.449509, 50.448211] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes South West",
+    "sales_name": "Trevemper",
+    "address": ["Newquay", "Cornwall"],
+    "postcode": "TR8 4WU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-5.06828, 50.4005] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes South West",
+    "sales_name": "Trevow Heights",
+    "address": ["Truro", "Cornwall"],
+    "postcode": "TR1 3XB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-5.085675, 50.259112] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes South West",
+    "sales_name": "Badbury Green",
+    "address": ["Faringdon", "Oxfordshire"],
+    "postcode": "SN7 7SN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.596061, 51.646553] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes South West",
+    "sales_name": "Maple Cross",
+    "address": ["Colyton", "Devon"],
+    "postcode": "EX24 6NR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.072871, 50.740216] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes South West",
+    "sales_name": "Molbrook",
+    "address": ["South Molton", "Devon"],
+    "postcode": "EX36 4GH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.846046, 51.018177] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes South West",
+    "sales_name": "Otters Reach",
+    "address": ["Yelland", "Devon"],
+    "postcode": "EX31 3EY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-4.158539, 51.066161] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes South West",
+    "sales_name": "Cherry Blossom View",
+    "address": ["Midsomer Norton", "Somerset"],
+    "postcode": "BA3 4QA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.479973, 51.271416] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes South West",
+    "sales_name": "Keyford on the Green",
+    "address": ["Frome", "Somerset"],
+    "postcode": "BA11 5BX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.318757, 51.218886] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes South West",
+    "sales_name": "Mead Fields",
+    "address": ["Weston-super-Mare", "Somerset"],
+    "postcode": "BS29 6FN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.898891, 51.340751] }
 }
   ]
 }
