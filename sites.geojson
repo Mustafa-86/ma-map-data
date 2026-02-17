@@ -2514,61 +2514,6 @@
 {
   "type": "Feature",
   "properties": {
-    "company": "Lagan Homes",
-    "sales_name": "Oak Grove",
-    "address": ["Cambridge Road", "Dunton", "Bedfordshire"],
-    "postcode": "SG18 8SB",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-0.191745, 52.086531] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "Lagan Homes",
-    "sales_name": "Maple Rise",
-    "address": ["Houghton Regis", "Dunstable", "Bedfordshire"],
-    "postcode": "LU5 6JQ",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-0.538194, 51.912863] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "Lagan Homes",
-    "sales_name": "St James View",
-    "address": ["Brackley", "Northamptonshire"],
-    "postcode": "NN13 6BL",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-1.161455, 52.029975] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "Lagan Homes",
-    "sales_name": "Weston Gate",
-    "address": ["Swindon", "Wiltshire"],
-    "postcode": "SN3 6GP",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-1.730169, 51.541485] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "Lagan Homes",
-    "sales_name": "Roman Gate",
-    "address": ["Ross-on-Wye", "Herefordshire"],
-    "postcode": "HR9 7PD",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-2.532584, 51.905734] }
-},
-{
-  "type": "Feature",
-  "properties": {
     "company": "Elan Homes Limited",
     "sales_name": "Millbridge",
     "address": [
@@ -3314,6 +3259,61 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-2.898891, 51.340751] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Oak Grove",
+    "address": ["Cambridge Road", "Dunton", "Bedfordshire"],
+    "postcode": "SG18 8SB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.191745, 52.086531] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Maple Rise",
+    "address": ["Houghton Regis", "Dunstable", "Bedfordshire"],
+    "postcode": "LU5 6JQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.538194, 51.912863] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "St James View",
+    "address": ["Brackley", "Northamptonshire"],
+    "postcode": "NN13 6BL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.161455, 52.029975] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Weston Gate",
+    "address": ["Swindon", "Wiltshire"],
+    "postcode": "SN3 6GP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.730169, 51.541485] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lagan Homes",
+    "sales_name": "Roman Gate",
+    "address": ["Ross-on-Wye", "Herefordshire"],
+    "postcode": "HR9 7PD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.532584, 51.905734] }
 }
   ]
 }
