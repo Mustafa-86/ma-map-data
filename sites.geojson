@@ -3314,6 +3314,83 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-2.532584, 51.905734] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Cumbria",
+    "sales_name": "Deer Park",
+    "address": ["Cumbria"],
+    "postcode": "CA3 9QJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.957206, 54.902969] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Cumbria",
+    "sales_name": "The Rowans",
+    "address": ["Cumbria"],
+    "postcode": "CA14 4FA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.541630, 54.642642] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Cumbria",
+    "sales_name": "St Patricks Vale",
+    "address": ["Cumbria"],
+    "postcode": "CA7 2AJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.269480, 54.658482] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Cumbria",
+    "sales_name": "Ivy Mills",
+    "address": ["Cumbria"],
+    "postcode": "CA28 8TP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.589116, 54.545303] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Cumbria",
+    "sales_name": "Fawns Wood",
+    "address": ["Cumbria"],
+    "postcode": "CA6 5FA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.891121, 54.993109] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Cumbria",
+    "sales_name": "Harker Place",
+    "address": ["Cumbria"],
+    "postcode": "CA6 4RF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.950912, 54.918843] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Cumbria",
+    "sales_name": "Castle Meadows",
+    "address": ["Cumbria"],
+    "postcode": "CA22 2LJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.516238, 54.470991] }
 }
   ]
 }
