@@ -3450,6 +3450,127 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.336515, 53.233992] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Lincolnshire",
+    "sales_name": "Hawthorn Fields",
+    "address": ["Lincolnshire"],
+    "postcode": "LN8 5RB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.292063, 53.285386] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Lincolnshire",
+    "sales_name": "Bracken Park",
+    "address": ["Lincolnshire"],
+    "postcode": "LN11 0AQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.001787, 53.378359] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Lincolnshire",
+    "sales_name": "Hillcrest Gardens",
+    "address": ["Lincolnshire"],
+    "postcode": "DN21 1NU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.761301, 53.391894] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Lincolnshire",
+    "sales_name": "Harriers Croft",
+    "address": ["Lincolnshire"],
+    "postcode": "PE20 2JX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.087373, 52.896785] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Lincolnshire",
+    "sales_name": "Tulip Fields",
+    "address": ["Lincolnshire"],
+    "postcode": "PE12 7JS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.005061, 52.809801] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Lincolnshire",
+    "sales_name": "The Shorelands",
+    "address": ["Lincolnshire"],
+    "postcode": "PE25 1JQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.334738, 53.19806] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Lincolnshire",
+    "sales_name": "Holton Croft",
+    "address": ["Lincolnshire"],
+    "postcode": "DN36 5AF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.063258, 53.512071] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Lincolnshire",
+    "sales_name": "Poppy Fields",
+    "address": ["Lincolnshire"],
+    "postcode": "LN9 6NG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.104597, 53.20139] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Lincolnshire",
+    "sales_name": "Saddler Fields",
+    "address": ["Lincolnshire"],
+    "postcode": "PE11 4HT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.161603, 52.870446] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Lincolnshire",
+    "sales_name": "Harpswell Fields",
+    "address": ["Lincolnshire"],
+    "postcode": "DN21 5XH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.569714, 53.39513] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Lincolnshire",
+    "sales_name": "Turnors Place",
+    "address": ["Lincolnshire"],
+    "postcode": "LN8 5AB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.310997, 53.286491] }
 }
   ]
 }
