@@ -3424,6 +3424,32 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-2.791336, 53.737905] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Midlands",
+    "sales_name": "Erin Court",
+    "address": [
+      "Derbyshire"
+    ],
+    "postcode": "S43 3JY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.358748, 53.254877] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Midlands",
+    "sales_name": "Springfield Meadows",
+    "address": [
+      "Derbyshire"
+    ],
+    "postcode": "S44 6BL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.336515, 53.233992] }
 }
   ]
 }
