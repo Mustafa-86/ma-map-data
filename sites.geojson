@@ -3391,6 +3391,39 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-3.516238, 54.470991] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Lancashire",
+    "sales_name": "Bracewell Gardens",
+    "address": ["Lancashire"],
+    "postcode": "BB18 6XA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.154516, 53.915052] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Lancashire",
+    "sales_name": "Thornton Fields",
+    "address": ["Lancashire"],
+    "postcode": "FY7 8RY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.029531, 53.902964] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Lancashire",
+    "sales_name": "Birley Croft",
+    "address": ["Lancashire"],
+    "postcode": "PR4 0RR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.791336, 53.737905] }
 }
   ]
 }
