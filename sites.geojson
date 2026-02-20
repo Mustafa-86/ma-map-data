@@ -3978,6 +3978,61 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.262441, 52.597884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes East Yorkshire",
+    "sales_name": "Kingston Fields",
+    "address": ["East Yorkshire"],
+    "postcode": "HU9 5HH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.284771, 53.748884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes East Yorkshire",
+    "sales_name": "Mariners View",
+    "address": ["East Yorkshire"],
+    "postcode": "HU18 1TG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.197884, 53.722441] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes East Yorkshire",
+    "sales_name": "Sands Reach",
+    "address": ["East Yorkshire"],
+    "postcode": "HU19 2PJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.036552, 53.735772] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes East Yorkshire",
+    "sales_name": "Pinfold Park ii",
+    "address": ["East Yorkshire"],
+    "postcode": "YO16 7AF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.205884, 54.097552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes East Yorkshire",
+    "sales_name": "Mill View",
+    "address": ["East Yorkshire"],
+    "postcode": "HU12 9RX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.017441, 53.684772] }
 }
   ]
 }
