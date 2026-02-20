@@ -4110,6 +4110,72 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.4748291419185342, 53.5753900843138] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes West Yorkshire",
+    "sales_name": "Northbeck Grange",
+    "address": ["West Yorkshire"],
+    "postcode": "BD7 2AY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.784552, 53.781884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes West Yorkshire",
+    "sales_name": "Rainsborough Park",
+    "address": ["West Yorkshire"],
+    "postcode": "WF11 0EW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.255884, 53.712441] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes West Yorkshire",
+    "sales_name": "Squirrel Fold",
+    "address": ["West Yorkshire"],
+    "postcode": "BD13 3FF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.859771, 53.768552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes West Yorkshire",
+    "sales_name": "Meadow Walk",
+    "address": ["West Yorkshire"],
+    "postcode": "WF9 2NB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.285663, 53.622884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes West Yorkshire",
+    "sales_name": "Wood Hall Chase",
+    "address": ["West Yorkshire"],
+    "postcode": "BD4 6QJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.722884, 53.768284] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes West Yorkshire",
+    "sales_name": "Waterloo Sidings",
+    "address": ["West Yorkshire"],
+    "postcode": "LS9 0JY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.496552, 53.802884] }
 }
   ]
 }
