@@ -4228,6 +4228,325 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.887552, 53.744771] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "Oriens Field",
+    "address": ["Scarborough"],
+    "postcode": "YO11 3WG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.430884, 54.246771] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "Liberty Rise",
+    "address": ["Hull"],
+    "postcode": "HU9 5YB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.286552, 53.748884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "Alexandra Wharf",
+    "address": ["Grimsby"],
+    "postcode": "DN31 1UL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.087441, 53.565884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "Edenhil Gardens",
+    "address": ["Edenthorpe", "Doncaster"],
+    "postcode": "DN3 2QT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.050552, 53.547884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "Forge Valley",
+    "address": ["East Ayton", "Scarborough"],
+    "postcode": "YO13 9HT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.501884, 54.268552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "Alvery Mews",
+    "address": ["Doncaster"],
+    "postcode": "DN4 9AR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.126884, 53.507552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "Kingsfield Park",
+    "address": ["Hull"],
+    "postcode": "HU7 3PY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.337552, 53.789884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "Willow Heights",
+    "address": ["Thurnscoe", "Dearne Valley"],
+    "postcode": "S63 0AW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.307552, 53.544884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "Warren Wood View",
+    "address": ["Gainsborough"],
+    "postcode": "DN21 1PN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.773884, 53.400552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "Osprey View",
+    "address": ["Costhorpe", "Carlton In Lindrick"],
+    "postcode": "S81 9QR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.122552, 53.336884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "Salkeld Meadows",
+    "address": ["Bridlington"],
+    "postcode": "YO15 3NG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.209884, 54.094552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "The Kilns",
+    "address": ["Hornsea"],
+    "postcode": "HU18 1UR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.174884, 53.909552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "Moorgate Boulevard",
+    "address": ["Moorgate", "Rotherham"],
+    "postcode": "S60 3FG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.353884, 53.420552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "Cambridge Green",
+    "address": ["Grimsby"],
+    "postcode": "DN34 5TA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.125884, 53.551552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire East",
+    "sales_name": "Poppy Place",
+    "address": ["Driffield"],
+    "postcode": "YO25 5UR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.433884, 54.006552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes County Durham",
+    "sales_name": "Middlestone Meadows",
+    "address": ["County Durham"],
+    "postcode": "DL16 7AS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.612884, 54.698552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes County Durham",
+    "sales_name": "Bracks Farm",
+    "address": ["County Durham"],
+    "postcode": "DL14 8DN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.666884, 54.655552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes County Durham",
+    "sales_name": "Casledene",
+    "address": ["County Durham"],
+    "postcode": "DH8 7LN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.845884, 54.858552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes County Durham",
+    "sales_name": "The Woodlandd",
+    "address": ["County Durham"],
+    "postcode": "DH7 7AU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.746884, 54.775552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes County Durham",
+    "sales_name": "Lyons Edge",
+    "address": ["County Durham"],
+    "postcode": "DH6 2UU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.485884, 54.762552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes County Durham",
+    "sales_name": "Rivers Walk",
+    "address": ["County Durham"],
+    "postcode": "DH9 6PZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.713884, 54.869552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes County Durham",
+    "sales_name": "All Saints",
+    "address": ["County Durham"],
+    "postcode": "DL17 8BU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.582884, 54.689552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes County Durham",
+    "sales_name": "Ousterley Woods",
+    "address": ["County Durham"],
+    "postcode": "DH9 6AG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.718884, 54.872552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes County Durham",
+    "sales_name": "The Paddock",
+    "address": ["County Durham"],
+    "postcode": "DH6 4HG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.475884, 54.730552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes County Durham",
+    "sales_name": "The Laureates",
+    "address": ["County Durham"],
+    "postcode": "DH6 3RT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.487884, 54.743552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Northumberland",
+    "sales_name": "Grangemoor Park",
+    "address": ["Northumberland"],
+    "postcode": "NE61 5LX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.690884, 55.179552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Northumberland",
+    "sales_name": "The Shores",
+    "address": ["Northumberland"],
+    "postcode": "NE64 6SR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.521884, 55.178552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Tyne & Wear",
+    "sales_name": "The View at Moorland Green",
+    "address": ["Tyne & Wear"],
+    "postcode": "NE17 7EX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.747884, 54.923552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Tyne & Wear",
+    "sales_name": "Elisabeth Park",
+    "address": ["Tyne & Wear"],
+    "postcode": "DH3 1HG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.565884, 54.839552] }
 }
   ]
 }
