@@ -4176,6 +4176,72 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.496552, 53.802884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire West",
+    "sales_name": "Fields Edge",
+    "address": ["Halifax"],
+    "postcode": "HX2 8SN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.889771, 53.742884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire West",
+    "sales_name": "Timeless",
+    "address": ["Leeds"],
+    "postcode": "LS14 6WR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.453884, 53.828772] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire West",
+    "sales_name": "The Vale",
+    "address": ["Upton"],
+    "postcode": "WF9 1LD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.270552, 53.623884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire West",
+    "sales_name": "Station View",
+    "address": ["South Elmsall"],
+    "postcode": "WF9 2SJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.284771, 53.595884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire West",
+    "sales_name": "The Orchards",
+    "address": ["Soothill"],
+    "postcode": "WF17 6EU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.669884, 53.706552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Yorkshire West",
+    "sales_name": "Oaklands",
+    "address": ["Halifax"],
+    "postcode": "HX2 8EQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.887552, 53.744771] }
 }
   ]
 }
