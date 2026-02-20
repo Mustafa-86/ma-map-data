@@ -3581,7 +3581,7 @@
     "postcode": "NG22 9XW",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.999326, 53.197588] }
+  "geometry": { "type": "Point", "coordinates": [-1.0084457729150267, 53.21255135512744] }
 },
 {
   "type": "Feature",
@@ -4038,12 +4038,12 @@
   "type": "Feature",
   "properties": {
     "company": "Gleeson Homes North Lincolnshire",
-    "sales_name": "Phonex Meadows",
+    "sales_name": "Phoenix Meadows",
     "address": ["North Lincolnshire"],
     "postcode": "DN15 8NH",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.653884, 53.580772] }
+  "geometry": { "type": "Point", "coordinates": [-0.6620282572348379, 53.60442941443279] }
 },
 {
   "type": "Feature",
@@ -4054,7 +4054,7 @@
     "postcode": "YO14 0LT",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.272441, 54.100772] }
+  "geometry": { "type": "Point", "coordinates": [-0.3140783413950786, 54.17697023142855] }
 },
 {
   "type": "Feature",
@@ -4065,7 +4065,7 @@
     "postcode": "DN4 9BW",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.119771, 53.504772] }
+  "geometry": { "type": "Point", "coordinates": [-1.1661276419917592, 53.49081408769295] }
 },
 {
   "type": "Feature",
@@ -4076,7 +4076,7 @@
     "postcode": "S63 9FL",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.291552, 53.528284] }
+  "geometry": { "type": "Point", "coordinates": [-1.2980498573005372, 53.52869123598924] }
 },
 {
   "type": "Feature",
@@ -4087,7 +4087,7 @@
     "postcode": "S63 9JP",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.296884, 53.521992] }
+  "geometry": { "type": "Point", "coordinates": [-1.2991826572944587, 53.535617579981526] }
 },
 {
   "type": "Feature",
@@ -4098,7 +4098,7 @@
     "postcode": "DN10 4EJ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.009326, 53.438284] }
+  "geometry": { "type": "Point", "coordinates": [-0.8352539288969104, 53.43622809567595] }
 },
 {
   "type": "Feature",
@@ -4109,7 +4109,7 @@
     "postcode": "S71 1NT",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.478663, 53.555772] }
+  "geometry": { "type": "Point", "coordinates": [-1.4748291419185342, 53.5753900843138] }
 }
   ]
 }
