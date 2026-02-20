@@ -1154,20 +1154,6 @@
   "type": "Feature",
   "properties": {
     "company": "Keepmoat Homes North West",
-    "sales_name": "Oaklands",
-    "address": ["Turner Avenue South", "Halifax"],
-    "postcode": "HX2 8EQ",
-    "status": "Live"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-1.8903629758184095, 53.74671438359006]
-  }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "Keepmoat Homes North West",
     "sales_name": "Mill Place",
     "address": ["Cheadle Road", "Tean", "Stoke-on-Trent"],
     "postcode": "ST10 4FY",
