@@ -4431,7 +4431,7 @@
   "type": "Feature",
   "properties": {
     "company": "Gleeson Homes County Durham",
-    "sales_name": "The Woodlandd",
+    "sales_name": "The Woodlands",
     "address": ["County Durham"],
     "postcode": "DH7 7AU",
     "status": "Live"
@@ -4547,6 +4547,83 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.565884, 54.839552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat North East",
+    "sales_name": "Heaton Quarter",
+    "address": ["Newcastle upon Tyne"],
+    "postcode": "NE6 5BX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.575884, 54.979552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat North East",
+    "sales_name": "The Rise",
+    "address": ["Newcastle upon Tyne"],
+    "postcode": "NE15 6EQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.685884, 54.976552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat North East",
+    "sales_name": "Beaconsfield Park",
+    "address": ["Newcastle upon Tyne"],
+    "postcode": "NE23 8AZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.525884, 55.092552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat North East",
+    "sales_name": "Rivers Edge",
+    "address": ["South Shields"],
+    "postcode": "NE33 1RW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.428884, 54.998552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat North East",
+    "sales_name": "Bassleton Meadows",
+    "address": ["Ingleby Barwick"],
+    "postcode": "TS17 0NP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.324884, 54.525552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat North East",
+    "sales_name": "Willow Glade",
+    "address": ["Chapel House"],
+    "postcode": "NE5 1DE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.707884, 54.986552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat North East",
+    "sales_name": "Antler Park",
+    "address": ["Seaton Carew"],
+    "postcode": "TS25 2BJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.210884, 54.663552] }
 }
   ]
 }
