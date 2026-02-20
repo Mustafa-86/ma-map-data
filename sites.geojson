@@ -3324,7 +3324,7 @@
     "postcode": "CA3 9QJ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.957206, 54.902969] }
+  "geometry": { "type": "Point", "coordinates": [-2.955755712308928, 54.91357186932711] }
 },
 {
   "type": "Feature",
@@ -3335,7 +3335,7 @@
     "postcode": "CA14 4FA",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-3.541630, 54.642642] }
+  "geometry": { "type": "Point", "coordinates": [-3.5413401279005194, 54.62955573704503] }
 },
 {
   "type": "Feature",
@@ -3346,7 +3346,7 @@
     "postcode": "CA7 2AJ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-3.269480, 54.658482] }
+  "geometry": { "type": "Point", "coordinates": [-3.329058589710158, 54.76281078220022] }
 },
 {
   "type": "Feature",
@@ -3357,7 +3357,7 @@
     "postcode": "CA28 8TP",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-3.589116, 54.545303] }
+  "geometry": { "type": "Point", "coordinates": [-3.5606429120775673, 54.53944109784508] }
 },
 {
   "type": "Feature",
@@ -3368,7 +3368,7 @@
     "postcode": "CA6 5FA",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.891121, 54.993109] }
+  "geometry": { "type": "Point", "coordinates": [-2.9586320821053467, 55.00559333175935] }
 },
 {
   "type": "Feature",
@@ -3379,7 +3379,7 @@
     "postcode": "CA6 4RF",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.950912, 54.918843] }
+  "geometry": { "type": "Point", "coordinates": [-2.948565820237283, 54.93928546435868] }
 },
 {
   "type": "Feature",
@@ -3390,7 +3390,7 @@
     "postcode": "CA22 2LJ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-3.516238, 54.470991] }
+  "geometry": { "type": "Point", "coordinates": [-3.533248166108258, 54.4767819544545] }
 },
 {
   "type": "Feature",
@@ -3401,7 +3401,7 @@
     "postcode": "BB18 6XA",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.154516, 53.915052] }
+  "geometry": { "type": "Point", "coordinates": [-2.141705251257477, 53.915225289436385] }
 },
 {
   "type": "Feature",
@@ -3412,7 +3412,7 @@
     "postcode": "FY7 8RY",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-3.029531, 53.902964] }
+  "geometry": { "type": "Point", "coordinates": [-3.011856991594664, 53.89164508382756] }
 },
 {
   "type": "Feature",
@@ -3423,7 +3423,7 @@
     "postcode": "PR4 0RR",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.791336, 53.737905] }
+  "geometry": { "type": "Point", "coordinates": [-2.772389266143171, 53.79453174762036] }
 },
 {
   "type": "Feature",
@@ -3436,7 +3436,7 @@
     "postcode": "S43 3JY",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.358748, 53.254877] }
+  "geometry": { "type": "Point", "coordinates": [-1.3355811359236964, 53.2590913963361] }
 },
 {
   "type": "Feature",
@@ -3449,7 +3449,7 @@
     "postcode": "S44 6BL",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.336515, 53.233992] }
+  "geometry": { "type": "Point", "coordinates": [-1.299784107502079, 53.23808480150685] }
 },
 {
   "type": "Feature",
@@ -3460,7 +3460,7 @@
     "postcode": "LN8 5RB",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.292063, 53.285386] }
+  "geometry": { "type": "Point", "coordinates": [-0.28973539543106097, 53.28533299947527] }
 },
 {
   "type": "Feature",
@@ -3471,7 +3471,7 @@
     "postcode": "LN11 0AQ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [0.001787, 53.378359] }
+  "geometry": { "type": "Point", "coordinates": [0.0009707664559467998, 53.38069021620487] }
 },
 {
   "type": "Feature",
