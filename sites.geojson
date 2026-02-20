@@ -3571,6 +3571,413 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.310997, 53.286491] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Nottinghamshire",
+    "sales_name": "Petersmiths Park",
+    "address": ["Nottinghamshire"],
+    "postcode": "NG22 9XW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.999326, 53.197588] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Nottinghamshire",
+    "sales_name": "Crown Gardens",
+    "address": ["Nottinghamshire"],
+    "postcode": "NG19 0SD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.203556, 53.143207] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Nottinghamshire",
+    "sales_name": "Firbeck Fields",
+    "address": ["Nottinghamshire"],
+    "postcode": "S81 9FR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.126245, 53.306842] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Nottinghamshire",
+    "sales_name": "St Andrews Heights",
+    "address": ["Nottinghamshire"],
+    "postcode": "NG17 3EL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.266814, 53.129551] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Nottinghamshire",
+    "sales_name": "Hollinwell Heath",
+    "address": ["Nottinghamshire"],
+    "postcode": "NG17 7PH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.294772, 53.145812] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Nottinghamshire",
+    "sales_name": "Lawrence Grange",
+    "address": ["Nottinghamshire"],
+    "postcode": "NG16 3JR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.295448, 53.019214] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Nottinghamshire",
+    "sales_name": "Stoneyford Green",
+    "address": ["Nottinghamshire"],
+    "postcode": "NG17 3NH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.266998, 53.127394] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Nottinghamshire",
+    "sales_name": "Rookery Fields",
+    "address": ["Nottinghamshire"],
+    "postcode": "NG17 1LQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.253884, 53.115662] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Nottinghamshire",
+    "sales_name": "Teversal Place",
+    "address": ["Nottinghamshire"],
+    "postcode": "NG17 3EL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.266814, 53.129551] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Nottinghamshire",
+    "sales_name": "Belmont Place",
+    "address": ["Nottinghamshire"],
+    "postcode": "NG17 2PE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.252441, 53.121908] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes Staffordshire",
+    "sales_name": "Watermills",
+    "address": ["Staffordshire"],
+    "postcode": "ST5 6BH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.241214, 53.020731] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Locksmith Quarter",
+    "address": ["West Midlands"],
+    "postcode": "WV13 1SZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.057613, 52.585928] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Mill Place",
+    "address": ["Tean", "Stoke on Trent"],
+    "postcode": "ST10 4FY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.988442, 52.946782] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Exhall Meadow",
+    "address": ["Bedworth"],
+    "postcode": "CV7 9FU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.472884, 52.472116] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Sketchley Meadows",
+    "address": ["Nuneaton"],
+    "postcode": "CV11 6WZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.498621, 52.520437] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Stallings Place",
+    "address": ["Kingswinford"],
+    "postcode": "DY6 7LR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.172991, 52.493608] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "The Steadings",
+    "address": ["Cirencester"],
+    "postcode": "GL7 0AD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.971558, 51.721224] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Winterstoke Gate",
+    "address": ["Weston-super-Mare"],
+    "postcode": "BS24 7QU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.963184, 51.336441] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Cley Hill View",
+    "address": ["Warminster"],
+    "postcode": "BA12 8HD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.178542, 51.207884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Wildflower Place",
+    "address": ["Hengrove", "Bristol"],
+    "postcode": "BS14 0HR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.559771, 51.416923] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Saxon Gate",
+    "address": ["Bridgwater"],
+    "postcode": "TA6 6DF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.993458, 51.136792] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat East Midlands",
+    "sales_name": "Sherwin Gardens",
+    "address": ["Bramcote"],
+    "postcode": "NG9 3GJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.260842, 52.935771] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat East Midlands",
+    "sales_name": "Chateau Mews",
+    "address": ["West Bridgford"],
+    "postcode": "NG2 7BS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.121558, 52.933284] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat East Midlands",
+    "sales_name": "Park View",
+    "address": ["Gedling"],
+    "postcode": "NG4 4HF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.078744, 52.977184] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat East Midlands",
+    "sales_name": "Waterside",
+    "address": ["Leicester"],
+    "postcode": "LE3 5BY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.148663, 52.641372] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat East Midlands",
+    "sales_name": "Pastures Grange at Handley Chase",
+    "address": ["Quarrington"],
+    "postcode": "NG34 6AG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.403992, 52.988447] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat East Midlands",
+    "sales_name": "Gedling Quarter",
+    "address": ["Gedling"],
+    "postcode": "NG4 4PA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.081663, 52.979552] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat East Midlands",
+    "sales_name": "Marble Square",
+    "address": ["Derby"],
+    "postcode": "DE24 8BF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.458214, 52.899771] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat East Midlands",
+    "sales_name": "Beeston Canalside",
+    "address": ["Beeston"],
+    "postcode": "NG9 1SR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.216884, 52.922441] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat South Midlands",
+    "sales_name": "Bluebell Place",
+    "address": ["Southend on Sea"],
+    "postcode": "SS2 4DQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.720884, 51.561772] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat South Midlands",
+    "sales_name": "Cable Wharf",
+    "address": ["Northfleet"],
+    "postcode": "DA11 9AA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.361992, 51.438284] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat South Midlands",
+    "sales_name": "Glenvale Park",
+    "address": ["Wellingborough"],
+    "postcode": "NN8 6DT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.682214, 52.309884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat South Midlands",
+    "sales_name": "Hawthorn Place at Tattenhoe Park",
+    "address": ["Milton Keynes"],
+    "postcode": "MK4 4LB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.800552, 52.005884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat South Midlands",
+    "sales_name": "Copper Fields",
+    "address": ["Old Newton", "Stowmarket"],
+    "postcode": "IP14 4ED",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.988441, 52.217884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat South Midlands",
+    "sales_name": "Fairlands Gate",
+    "address": ["Stevenage"],
+    "postcode": "SG1 1NG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.201884, 51.904772] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat South Midlands",
+    "sales_name": "Stirling Fields",
+    "address": ["Northstowe"],
+    "postcode": "CB24 1EX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.071552, 52.290884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat South Midlands",
+    "sales_name": "Manor Grange",
+    "address": ["Peterborough"],
+    "postcode": "PE4 7AT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.262441, 52.597884] }
 }
   ]
 }
