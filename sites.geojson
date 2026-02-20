@@ -4033,6 +4033,83 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.017441, 53.684772] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes North Lincolnshire",
+    "sales_name": "Phonex Meadows",
+    "address": ["North Lincolnshire"],
+    "postcode": "DN15 8NH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.653884, 53.580772] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes North Yorkshire",
+    "sales_name": "Coopers Meadow",
+    "address": ["North Yorkshire"],
+    "postcode": "YO14 0LT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.272441, 54.100772] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes South Yorkshire",
+    "sales_name": "Danum Glage",
+    "address": ["South Yorkshire"],
+    "postcode": "DN4 9BW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.119771, 53.504772] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes South Yorkshire",
+    "sales_name": "The Homesteads",
+    "address": ["South Yorkshire"],
+    "postcode": "S63 9FL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.291552, 53.528284] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes South Yorkshire",
+    "sales_name": "Bluebell Court",
+    "address": ["South Yorkshire"],
+    "postcode": "S63 9JP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.296884, 53.521992] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes South Yorkshire",
+    "sales_name": "Mynster Fields",
+    "address": ["South Yorkshire"],
+    "postcode": "DN10 4EJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.009326, 53.438284] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Gleeson Homes South Yorkshire",
+    "sales_name": "Primrose Park",
+    "address": ["South Yorkshire"],
+    "postcode": "S71 1NT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.478663, 53.555772] }
 }
   ]
 }
