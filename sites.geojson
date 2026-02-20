@@ -3680,7 +3680,7 @@
     "postcode": "NG17 2PE",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.252441, 53.121908] }
+  "geometry": { "type": "Point", "coordinates": [-1.2920853116209656, 53.12918325449903] }
 },
 {
   "type": "Feature",
@@ -3691,7 +3691,7 @@
     "postcode": "ST5 6BH",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.241214, 53.020731] }
+  "geometry": { "type": "Point", "coordinates": [-2.2662055270415227, 53.03729239404148] }
 },
 {
   "type": "Feature",
@@ -3702,7 +3702,7 @@
     "postcode": "WV13 1SZ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.057613, 52.585928] }
+  "geometry": { "type": "Point", "coordinates": [-2.055152412085735, 52.587037794317936] }
 },
 {
   "type": "Feature",
