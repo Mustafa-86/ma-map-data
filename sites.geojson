@@ -3878,7 +3878,7 @@
     "postcode": "DE24 8BF",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [--1.46252467318448, 52.89909262952601] }
+  "geometry": { "type": "Point", "coordinates": [-1.46252467318448, 52.89909262952601] }
 },
 {
   "type": "Feature",
