@@ -3713,7 +3713,7 @@
     "postcode": "ST10 4FY",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.988442, 52.946782] }
+  "geometry": { "type": "Point", "coordinates": [-1.9912626731314844, 52.96094795792322] }
 },
 {
   "type": "Feature",
@@ -3724,7 +3724,7 @@
     "postcode": "CV7 9FU",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.472884, 52.472116] }
+  "geometry": { "type": "Point", "coordinates": [-1.4839339042412802, 52.46194933992994] }
 },
 {
   "type": "Feature",
@@ -3735,7 +3735,7 @@
     "postcode": "CV11 6WZ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.498621, 52.520437] }
+  "geometry": { "type": "Point", "coordinates": [-1.4426581274860453, 52.51806031103301] }
 },
 {
   "type": "Feature",
@@ -3746,7 +3746,7 @@
     "postcode": "DY6 7LR",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.172991, 52.493608] }
+  "geometry": { "type": "Point", "coordinates": [-2.145040542833931, 52.51048079097317] }
 },
 {
   "type": "Feature",
@@ -3757,7 +3757,7 @@
     "postcode": "GL7 0AD",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.971558, 51.721224] }
+  "geometry": { "type": "Point", "coordinates": [-1.968238158846826, 51.718534598504206] }
 },
 {
   "type": "Feature",
@@ -3765,10 +3765,10 @@
     "company": "Keepmoat West Midlands",
     "sales_name": "Winterstoke Gate",
     "address": ["Weston-super-Mare"],
-    "postcode": "BS24 7QU",
+    "postcode": "BS24 7NH",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.963184, 51.336441] }
+  "geometry": { "type": "Point", "coordinates": [-2.905860143821643, 51.34214660386818] }
 },
 {
   "type": "Feature",
@@ -3779,7 +3779,7 @@
     "postcode": "BA12 8HD",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.178542, 51.207884] }
+  "geometry": { "type": "Point", "coordinates": [-2.2075992746224022, 51.201316789153516] }
 },
 {
   "type": "Feature",
@@ -3790,7 +3790,7 @@
     "postcode": "BS14 0HR",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.559771, 51.416923] }
+  "geometry": { "type": "Point", "coordinates": [-2.587099443759358, 51.4163715065512] }
 },
 {
   "type": "Feature",
@@ -3801,7 +3801,7 @@
     "postcode": "TA6 6DF",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.993458, 51.136792] }
+  "geometry": { "type": "Point", "coordinates": [-3.0013261440246164, 51.0993402959962] }
 },
 {
   "type": "Feature",
@@ -3812,7 +3812,7 @@
     "postcode": "NG9 3GJ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.260842, 52.935771] }
+  "geometry": { "type": "Point", "coordinates": [-1.2526734424598012, 52.947837663282556] }
 },
 {
   "type": "Feature",
@@ -3820,10 +3820,10 @@
     "company": "Keepmoat East Midlands",
     "sales_name": "Chateau Mews",
     "address": ["West Bridgford"],
-    "postcode": "NG2 7BS",
+    "postcode": "NG2 7ST",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.121558, 52.933284] }
+  "geometry": { "type": "Point", "coordinates": [-1.1524893424782963, 52.92628568208535] }
 },
 {
   "type": "Feature",
@@ -3834,7 +3834,7 @@
     "postcode": "NG4 4HF",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.078744, 52.977184] }
+  "geometry": { "type": "Point", "coordinates": [-1.0943229424067107, 52.985805588346295] }
 },
 {
   "type": "Feature",
@@ -3845,7 +3845,7 @@
     "postcode": "LE3 5BY",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.148663, 52.641372] }
+  "geometry": { "type": "Point", "coordinates": [-1.1424384427229188, 52.640732769301856] }
 },
 {
   "type": "Feature",
@@ -3853,10 +3853,10 @@
     "company": "Keepmoat East Midlands",
     "sales_name": "Pastures Grange at Handley Chase",
     "address": ["Quarrington"],
-    "postcode": "NG34 6AG",
+    "postcode": "NG34 8NX",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.403992, 52.988447] }
+  "geometry": { "type": "Point", "coordinates": [-0.42337782279072644, 52.98464122569238] }
 },
 {
   "type": "Feature",
@@ -3867,7 +3867,7 @@
     "postcode": "NG4 4PA",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.081663, 52.979552] }
+  "geometry": { "type": "Point", "coordinates": [-1.0823604731122192, 52.98336434046317] }
 },
 {
   "type": "Feature",
@@ -3878,7 +3878,7 @@
     "postcode": "DE24 8BF",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.458214, 52.899771] }
+  "geometry": { "type": "Point", "coordinates": [--1.46252467318448, 52.89909262952601] }
 },
 {
   "type": "Feature",
@@ -3889,7 +3889,7 @@
     "postcode": "NG9 1SR",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.216884, 52.922441] }
+  "geometry": { "type": "Point", "coordinates": [-1.1889499038478784, 52.92198719747887] }
 },
 {
   "type": "Feature",
@@ -3900,7 +3900,7 @@
     "postcode": "SS2 4DQ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [0.720884, 51.561772] }
+  "geometry": { "type": "Point", "coordinates": [0.724310041016202, 51.55569093201993] }
 },
 {
   "type": "Feature",
@@ -3911,7 +3911,7 @@
     "postcode": "DA11 9AA",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [0.361992, 51.438284] }
+  "geometry": { "type": "Point", "coordinates": [0.35077467160542153, 51.44421103783325] }
 },
 {
   "type": "Feature",
@@ -3922,7 +3922,7 @@
     "postcode": "NN8 6DT",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.682214, 52.309884] }
+  "geometry": { "type": "Point", "coordinates": [-0.712148979908307, 52.320355546950125] }
 },
 {
   "type": "Feature",
@@ -3933,7 +3933,7 @@
     "postcode": "MK4 4LB",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.800552, 52.005884] }
+  "geometry": { "type": "Point", "coordinates": [-0.7992681477339443, 51.99206797815596] }
 },
 {
   "type": "Feature",
@@ -3944,7 +3944,7 @@
     "postcode": "IP14 4ED",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [0.988441, 52.217884] }
+  "geometry": { "type": "Point", "coordinates": [1.00465467226225, 52.222322801514444] }
 },
 {
   "type": "Feature",
@@ -3955,7 +3955,7 @@
     "postcode": "SG1 1NG",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.201884, 51.904772] }
+  "geometry": { "type": "Point", "coordinates": [-0.18435788937319156, 51.90415051799058] }
 },
 {
   "type": "Feature",
@@ -3963,10 +3963,10 @@
     "company": "Keepmoat South Midlands",
     "sales_name": "Stirling Fields",
     "address": ["Northstowe"],
-    "postcode": "CB24 1EX",
+    "postcode": "CB24 1DJ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [0.071552, 52.290884] }
+  "geometry": { "type": "Point", "coordinates": [0.06558072628836507, 52.28183188027669] }
 },
 {
   "type": "Feature",
@@ -3977,7 +3977,7 @@
     "postcode": "PE4 7AT",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.262441, 52.597884] }
+  "geometry": { "type": "Point", "coordinates": [-0.2296201041145396, 52.61049321067882] }
 },
 {
   "type": "Feature",
@@ -3988,7 +3988,7 @@
     "postcode": "HU9 5HH",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.284771, 53.748884] }
+  "geometry": { "type": "Point", "coordinates": [-0.26818972641994077, 53.75653352036487] }
 },
 {
   "type": "Feature",
@@ -3999,7 +3999,7 @@
     "postcode": "HU18 1TG",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.197884, 53.722441] }
+  "geometry": { "type": "Point", "coordinates": [-0.16306112628817743, 53.90809772438231] }
 },
 {
   "type": "Feature",
@@ -4010,18 +4010,18 @@
     "postcode": "HU19 2PJ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.036552, 53.735772] }
+  "geometry": { "type": "Point", "coordinates": [0.03962041957296869, 53.7202773239646] }
 },
 {
   "type": "Feature",
   "properties": {
     "company": "Gleeson Homes East Yorkshire",
-    "sales_name": "Pinfold Park ii",
+    "sales_name": "Pinfold Park II",
     "address": ["East Yorkshire"],
     "postcode": "YO16 7AF",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.205884, 54.097552] }
+  "geometry": { "type": "Point", "coordinates": [-0.20668647122202552, 54.101446945436386] }
 },
 {
   "type": "Feature",
@@ -4032,7 +4032,7 @@
     "postcode": "HU12 9RX",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.017441, 53.684772] }
+  "geometry": { "type": "Point", "coordinates": [-0.09811443385413152, 53.70608878395866] }
 },
 {
   "type": "Feature",
