@@ -4689,18 +4689,18 @@
     "postcode": "S43 3FG",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.360884, 53.248552] }
+  "geometry": { "type": "Point", "coordinates": [-1.3227209421902253, 53.26116475089221] }
 },
 {
   "type": "Feature",
   "properties": {
     "company": "Henry Boot Construction",
-    "sales_name": "Markhamvale Plot 9",
+    "sales_name": "Markham Vale Plot 9",
     "address": ["Meadow House Way", "Chesterfield"],
     "postcode": "S41 6AE",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.439884, 53.238552] }
+  "geometry": { "type": "Point", "coordinates": [-1.324044495049893, 53.236141384810736] }
 },
 {
   "type": "Feature",
@@ -4711,7 +4711,7 @@
     "postcode": "S43 3AZ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.334884, 53.279552] }
+  "geometry": { "type": "Point", "coordinates": [-1.32338526304103, 53.277695339021825] }
 },
 {
   "type": "Feature",
@@ -4722,7 +4722,7 @@
     "postcode": "DN38 6HW",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.406884, 53.575552] }
+  "geometry": { "type": "Point", "coordinates": [-0.4083787670443567, 53.575365573353395] }
 },
 {
   "type": "Feature",
@@ -4733,7 +4733,7 @@
     "postcode": "ST5 2AD",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.225884, 53.011552] }
+  "geometry": { "type": "Point", "coordinates": [-2.22765744653824, 53.0128547098023] }
 },
 {
   "type": "Feature",
@@ -4744,7 +4744,7 @@
     "postcode": "ST5 1BT",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.229884, 53.013552] }
+  "geometry": { "type": "Point", "coordinates": [-2.218771139581226, 53.01185141051555] }
 },
 {
   "type": "Feature",
@@ -4755,7 +4755,7 @@
     "postcode": "YO15 3AF",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.207884, 54.094552] }
+  "geometry": { "type": "Point", "coordinates": [-0.19301798361439054, 54.08260018138581] }
 },
 {
   "type": "Feature",
@@ -4766,7 +4766,7 @@
     "postcode": "LS15 8ZA",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.428884, 53.792552] }
+  "geometry": { "type": "Point", "coordinates": [-1.4296476288855307, 53.79485045890071] }
 },
 {
   "type": "Feature",
@@ -4777,7 +4777,7 @@
     "postcode": "DN7 6EL",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.009884, 53.582552] }
+  "geometry": { "type": "Point", "coordinates": [-0.9825421196008097, 53.58696458293545] }
 },
 {
   "type": "Feature",
@@ -4788,7 +4788,7 @@
     "postcode": "S9 2AL",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.414884, 53.401552] }
+  "geometry": { "type": "Point", "coordinates": [-1.427110901040176, 53.39729136299051] }
 },
 {
   "type": "Feature",
@@ -4799,7 +4799,7 @@
     "postcode": "S4 7TL",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.457884, 53.391552] }
+  "geometry": { "type": "Point", "coordinates": [-1.4539052046176215, 53.38660957839882] }
 },
 {
   "type": "Feature",
@@ -4810,7 +4810,7 @@
     "postcode": "HD1 3BX",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.781884, 53.646552] }
+  "geometry": { "type": "Point", "coordinates": [-1.7803714966447175, 53.6428413795227] }
 },
 {
   "type": "Feature",
@@ -4821,7 +4821,7 @@
     "postcode": "S65 1EL",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.357884, 53.432552] }
+  "geometry": { "type": "Point", "coordinates": [-1.3540434587901893, 53.432570886557706] }
 },
 {
   "type": "Feature",
@@ -4832,7 +4832,7 @@
     "postcode": "S3 8SU",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.468884, 53.385552] }
+  "geometry": { "type": "Point", "coordinates": [-1.473975350064974, 53.38788394828468] }
 },
 {
   "type": "Feature",
@@ -4843,7 +4843,7 @@
     "postcode": "S4 8AL",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.454884, 53.396552] }
+  "geometry": { "type": "Point", "coordinates": [-1.4281226656855195, 53.40816530221374] }
 },
 {
   "type": "Feature",
@@ -4854,7 +4854,7 @@
     "postcode": "YO23 1PE",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.091884, 53.949552] }
+  "geometry": { "type": "Point", "coordinates": [-1.0870514982926454, 53.9438213132071] }
 },
 {
   "type": "Feature",
@@ -4865,18 +4865,18 @@
     "postcode": "S3 8DP",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.470884, 53.385552] }
+  "geometry": { "type": "Point", "coordinates": [-1.47699843020336, 53.39320871075215] }
 },
 {
   "type": "Feature",
   "properties": {
     "company": "Henry Boot Construction",
-    "sales_name": "Zone 2&3",
+    "sales_name": "Zone 2 & 3",
     "address": ["Coney Street", "York"],
     "postcode": "YO1 9QL",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.082884, 53.959552] }
+  "geometry": { "type": "Point", "coordinates": [-1.0841656262645196, 53.959051081028335] }
 },
 {
   "type": "Feature",
@@ -4887,7 +4887,7 @@
     "postcode": "S60 1DX",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.397884, 53.423552] }
+  "geometry": { "type": "Point", "coordinates": [-1.3777055879343227, 53.41711633079601] }
 }
   ]
 }
