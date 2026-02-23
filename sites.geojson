@@ -4888,6 +4888,17 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.3777055879343227, 53.41711633079601] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Miller Homes Northwest Limited",
+    "sales_name": "Blyth Fields",
+    "address": ["Stoke on Trent"],
+    "postcode": "ST11 9FX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.0500866798671225, 52.960299729728625] }
 }
   ]
 }
