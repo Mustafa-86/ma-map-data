@@ -4885,6 +4885,50 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-2.0500866798671225, 52.960299729728625] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Kingswood Homes",
+    "sales_name": "Spinners Brook",
+    "address": ["Hoddlesden"],
+    "postcode": "BB3 3QE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4304529671122377, 53.69820161154749] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Kingswood Homes",
+    "sales_name": "Green Hills - The Farmstead Collection",
+    "address": ["Witton Weavers", "Moorland Drive", "Feniscowles", "Blackburn"],
+    "postcode": "BB2 5DD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.5216389166070226, 53.72375988964106] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Kingswood Homes",
+    "sales_name": "Green Hills - Ridge Heights",
+    "address": ["Broken Stone Road", "Feniscowles", "Blackburn"],
+    "postcode": "BB2 5JP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.5204158685025106, 53.720223419607635] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Kingswood Homes",
+    "sales_name": "The Market Quarter",
+    "address": ["Hatherleigh"],
+    "postcode": "EX20 3HT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-4.075775786408015, 50.823256751729716] }
 }
   ]
 }
