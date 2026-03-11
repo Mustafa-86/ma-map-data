@@ -4906,6 +4906,699 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.792436, 52.682317] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Atherstone Place",
+    "address": ["Atherstone"],
+    "postcode": "CV9 2HD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.546551, 52.573726] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Hollycroft Grange",
+    "address": ["Hinckley"],
+    "postcode": "LE10 3BZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.376275, 52.548187] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Arden Grange",
+    "address": ["Keresley"],
+    "postcode": "CV7 8LA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.533784, 52.447135] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Ashny Fields",
+    "address": ["Ashby-De-La-Zouch"],
+    "postcode": "LE65 1DJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.472686, 52.746953] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "The Brambles",
+    "address": ["Rugby"],
+    "postcode": "CV23 9GL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.325739, 52.387118] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Eden Park",
+    "address": ["Rugby"],
+    "postcode": "CV21 1UX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.261873, 52.372581] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Woolcroft Rise",
+    "address": ["Shepshed"],
+    "postcode": "LE12 9DE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.297741, 52.765802] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Cottage Farm",
+    "address": ["Oadby"],
+    "postcode": "LE2 4RZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.084934, 52.587901] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Outwood Meadows",
+    "address": ["Burton upon Trent"],
+    "postcode": "DE13 9UE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.621742, 52.799246] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Quenilborough Lodge",
+    "address": ["Leicester"],
+    "postcode": "LE7 3EF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.050984, 52.664901] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Sandon Gate",
+    "address": ["Stafford"],
+    "postcode": "ST18 9TH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.113924, 52.813772] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Banbury Rise",
+    "address": ["Banbury"],
+    "postcode": "OX16 1JH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.336515, 52.060214] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Badsey Meadows",
+    "address": ["Badsey"],
+    "postcode": "WR11 7TW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.884522, 52.084947] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Hutchison Gate",
+    "address": ["Shropshire"],
+    "postcode": "TF10 7ZG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.389247, 52.767148] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Evesham Gate",
+    "address": ["Evesham"],
+    "postcode": "WR11 2BE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.945372, 52.091836] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Elgar Park",
+    "address": ["Worcester"],
+    "postcode": "WR2 6RF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.247534, 52.207431] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Somerby View",
+    "address": ["Grantham"],
+    "postcode": "NG31 7TS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.646372, 52.907316] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Newport Vale",
+    "address": ["Milton Keynes"],
+    "postcode": "MK16 0HA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.715872, 52.078447] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Tewkesbury Meadow",
+    "address": ["Tewkesbury"],
+    "postcode": "GL20 7FU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.159783, 51.991532] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Winslow Park",
+    "address": ["Winslow"],
+    "postcode": "MK18 3LY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.883417, 51.942814] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Thorsten Fields",
+    "address": ["Congleton"],
+    "postcode": "CW12 1TE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.211532, 53.163846] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "The Arches at Ledbury",
+    "address": ["Ledbury"],
+    "postcode": "HR8 1NS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.426913, 52.036742] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Brize Meadow",
+    "address": ["Brize Norton", "East Carterton"],
+    "postcode": "OX18 1NE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.577942, 51.759615] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Orchid Place",
+    "address": ["Leighton"],
+    "postcode": "CW1 4QR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.471205, 53.101574] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "The Manors",
+    "address": ["Westoning"],
+    "postcode": "MK45 5LE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.528734, 52.005712] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Weston Mead Grange",
+    "address": ["Aylesbury"],
+    "postcode": "HP22 5AN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.763829, 51.801464] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Marcham Meadows",
+    "address": ["Abingdon"],
+    "postcode": "OX13 6NX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.307951, 51.666394] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Hereford Point",
+    "address": ["Hereford"],
+    "postcode": "HR4 9QP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.716451, 52.072118] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Wharncliffe Park",
+    "address": ["Deepcar"],
+    "postcode": "S36 2BX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.544207, 53.465821] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Poppy Fields",
+    "address": ["Lower Stondon"],
+    "postcode": "SG16 6EA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.319541, 52.002873] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Foxcote",
+    "address": ["Cheadle"],
+    "postcode": "SK8 3RZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.206384, 53.391642] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Oriel Gardens",
+    "address": ["Faringdon"],
+    "postcode": "SN7 7BP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.584713, 51.655920] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Bloor Homes at Shrivenham",
+    "address": ["Shrivenham"],
+    "postcode": "SN6 8GP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.656271, 51.598321] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Avon Rise",
+    "address": ["Malmesbury"],
+    "postcode": "SN16 9JN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.100463, 51.582214] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Aspen Brook",
+    "address": ["Widnes"],
+    "postcode": "WA8 3UB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.725094, 53.358736] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Holly Grange",
+    "address": ["Warrington"],
+    "postcode": "WA5 3ZH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.622831, 53.393041] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Beefold Meadows",
+    "address": ["Atherton"],
+    "postcode": "M46 0BL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.481395, 53.526719] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Hollingworth Rise",
+    "address": ["Littleborough"],
+    "postcode": "OL15 0AZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.092674, 53.645822] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Suttonfields",
+    "address": ["St Helens"],
+    "postcode": "WA9 5BT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.708325, 53.457118] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Elowen Garden Village",
+    "address": ["Whiston"],
+    "postcode": "L35 1AA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.796412, 53.417502] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Hilltop Park",
+    "address": ["Chippenham"],
+    "postcode": "SN14 0FY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.121385, 51.460742] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Monarchs View",
+    "address": ["Binfield"],
+    "postcode": "RG42 4HA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.783561, 51.430914] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Elsenham Park",
+    "address": ["Bishops Stortford"],
+    "postcode": "CM22 6ZB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.223874, 51.922614] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Wilsey Park",
+    "address": ["Haverhill"],
+    "postcode": "CB9 7UD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.445781, 52.081574] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Mindenhurst",
+    "address": ["Camberley"],
+    "postcode": "GU16 6QF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.727438, 51.327451] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Bloor Homes on the Green",
+    "address": ["Basingstoke"],
+    "postcode": "RG23 7PX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.118452, 51.266387] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Bloor Homes on the 18th",
+    "address": ["Basingstoke"],
+    "postcode": "RG23 7QB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.112573, 51.268731] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "The Paddocks",
+    "address": ["Ash Green"],
+    "postcode": "GU12 6JH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.724852, 51.247019] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Kingfisher Place",
+    "address": ["Preston"],
+    "postcode": "PR4 0ZU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.786214, 53.740861] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Thurston Grove",
+    "address": ["Bury St Edmunds"],
+    "postcode": "IP31 3QX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.790416, 52.252847] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Tabley Gate",
+    "address": ["Preston"],
+    "postcode": "PR4 0LH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.739418, 53.760524] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "All Saints Gardens",
+    "address": ["Bury St Edmunds"],
+    "postcode": "IP31 2BZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.738612, 52.255147] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Bently Gardens",
+    "address": ["Basildon"],
+    "postcode": "SS15 4DB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.456372, 51.567214] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Bloor Homes at Stowmarket",
+    "address": ["Stowmarket"],
+    "postcode": "IP14 1GS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.995821, 52.189374] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Forest View",
+    "address": ["Totton"],
+    "postcode": "SO40 2QT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.507268, 50.918374] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Kings Hill Park",
+    "address": ["Rochford"],
+    "postcode": "SS4 1YP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.695284, 51.582491] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Hazelton Meadow",
+    "address": ["Horndean"],
+    "postcode": "PO8 0DR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.996148, 50.912617] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Evergreen Parade",
+    "address": ["Bridgwater"],
+    "postcode": "TA6 4FU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.991742, 51.130814] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Somerton Mead",
+    "address": ["Somerton"],
+    "postcode": "TA11 6FS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.735814, 51.057632] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Park View",
+    "address": ["Waterlooville"],
+    "postcode": "PO7 3EL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.027463, 50.884621] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Dawlish View",
+    "address": ["Dawlish"],
+    "postcode": "EX7 0GL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.468214, 50.583741] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Farleigh Gardens",
+    "address": ["Newton Abbot"],
+    "postcode": "TQ12 6NH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.604832, 50.545214] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Treledan",
+    "address": ["Saltash"],
+    "postcode": "PL12 6PR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-4.236751, 50.425318] }
 }
   ]
 }
