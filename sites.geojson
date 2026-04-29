@@ -5600,6 +5600,216 @@
   },
   "geometry": { "type": "Point", "coordinates": [-4.236751, 50.425318] }
 },
+,
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "The Asps",
+    "address": ["Warwick"],
+    "postcode": "CV34 0AA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5939, 52.2671] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Cromwell Orchard",
+    "address": ["Mickleover"],
+    "postcode": "DE3 0AB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5451, 52.9077] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Frankley Park",
+    "address": ["Birmingham"],
+    "postcode": "B31 5EG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.0081, 52.4022] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Fawndale Rise",
+    "address": ["Spondon"],
+    "postcode": "DE72 3SB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4006, 52.9206] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Shottery View",
+    "address": ["Stratford-upon-Avon"],
+    "postcode": "CV37 9QX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.7311, 52.1883] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Saxon Park",
+    "address": ["Desborough"],
+    "postcode": "NN14 2WQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.8203, 52.4416] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Penkridge Chase",
+    "address": ["Penkridge"],
+    "postcode": "ST19 5RD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1136, 52.7263] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Stapleford Heights",
+    "address": ["Melton Mowbray"],
+    "postcode": "LE13 1LH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.8819, 52.7681] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Harlestone Park",
+    "address": ["Harlestone"],
+    "postcode": "NN5 6SX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.9472, 52.2563] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Oakmere Rise",
+    "address": ["Yeovil"],
+    "postcode": "BA21 5SJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.6265, 50.9602] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Priors Meadow",
+    "address": ["Southbourne"],
+    "postcode": "PO10 8LQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.9142, 50.8418] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Wimborne Chase",
+    "address": ["Wimborne Minster"],
+    "postcode": "BH21 4GA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.9798, 50.7966] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Bloor Homes at Felixstowe",
+    "address": ["Felixstowe"],
+    "postcode": "IP11 0YG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [1.3382, 51.9747] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Quantock Park",
+    "address": ["Taunton"],
+    "postcode": "TA2 6AW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.1025, 51.0347] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Lillebonne Place",
+    "address": ["Wellington"],
+    "postcode": "TA21 9HN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.2307, 50.9825] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "The Meadows",
+    "address": ["Cullompton"],
+    "postcode": "EX15 1QH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.3861, 50.8598] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Bloor Homes at Pinhoe",
+    "address": ["Exeter"],
+    "postcode": "EX1 3YX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.4654, 50.7401] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Seabrook Orchards",
+    "address": ["Exeter"],
+    "postcode": "EX2 7DR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.4677, 50.6972] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Bloor Homes",
+    "sales_name": "Winsford Park",
+    "address": ["Bideford"],
+    "postcode": "EX39 3QW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-4.1992, 51.0237] }
+},
 {
     "type": "Feature",
     "properties": {
