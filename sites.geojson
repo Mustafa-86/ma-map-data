@@ -5599,11 +5599,8 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-4.236751, 50.425318] }
-}
-  ]
 },
-[
-  {
+{
     "type": "Feature",
     "properties": {
       "company": "Prospect Homes",
