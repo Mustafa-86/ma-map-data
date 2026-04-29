@@ -6005,6 +6005,105 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.5867395492213583, 54.51676082767728] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Harper Crewe",
+    "sales_name": "Higham Ferrers",
+    "address": ["Draper Road, Northamptonshire"],
+    "postcode": "NN10 8GD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.5965, 52.3039] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Harper Crewe",
+    "sales_name": "Castlefield Park",
+    "address": ["Toddington Road, Harlington, Bedfordshire"],
+    "postcode": "LU5 6LA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.4935, 51.9604] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Harper Crewe",
+    "sales_name": "Pershore",
+    "address": ["Worcestershire"],
+    "postcode": "WR10 1HW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.0776, 52.1123] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Harper Crewe",
+    "sales_name": "Stoke Orchard",
+    "address": ["Stoke Road, Gloucestershire"],
+    "postcode": "GL52 7RU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1115, 51.9509] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Harper Crewe",
+    "sales_name": "Carterton",
+    "address": ["Burford Road, Brize Norton, Oxfordshire"],
+    "postcode": "OX18 3NU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5911, 51.7763] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Harper Crewe",
+    "sales_name": "The Steadings",
+    "address": ["Sivewright Way, Cirencester, Gloucestershire"],
+    "postcode": "GL7 0AB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.9747, 51.7189] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Harper Crewe",
+    "sales_name": "Sutton Courtenay",
+    "address": ["Hobbyhorse Lane, Oxfordshire"],
+    "postcode": "OX14 4BB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.2765, 51.6346] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Harper Crewe",
+    "sales_name": "Brunswick Terrace",
+    "address": ["Staffordshire"],
+    "postcode": "ST16 1FB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1216, 52.8142] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Harper Crewe",
+    "sales_name": "Lichfield",
+    "address": ["Cricket Lane, Staffordshire"],
+    "postcode": "WS14 9ER",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.8255, 52.6717] }
 }
 
 
