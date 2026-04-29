@@ -5642,6 +5642,49 @@
       "coordinates": [-2.5684599635264447, 53.777135144426325]
     }
   }
+,
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Harper Crewe",
+    "sales_name": "Sutton Courtenay",
+    "address": ["Hobbyhorse Lane, Oxford, Oxfordshire"],
+    "postcode": "OX14 4BB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.2744526777329752, 51.63356032086401] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Harper Crewe",
+    "sales_name": "Carterton",
+    "address": ["Burford Road, Brize Norton, Oxford, Oxfordshire"],
+    "postcode": "OX18 3NU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5886513821646442, 51.77594061898796] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Harper Crewe",
+    "sales_name": "Stoke Orchard",
+    "address": ["Gloucestershire"],
+    "postcode": "GL52 7RU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1114974919611305, 51.9508657846541] }
+}
+
+
+
+
+
+
+
+
+
 ]
 }
 
