@@ -5818,6 +5818,117 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-2.142257043250618, 52.59703635080378] }
+},
+,
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Locksmith Quarter",
+    "address": ["Wolverhampton"],
+    "postcode": "WV13 1SZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.055259432716212, 52.58687456128846] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Mill Place",
+    "address": ["Tean, Stoke-on-Trent"],
+    "postcode": "ST10 4FY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.991213266370456, 52.960764067863266] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Exhall Meadow",
+    "address": ["Bedworth"],
+    "postcode": "CV7 9FU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4840069291950375, 52.461841545687996] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Sketchley Meadows",
+    "address": ["Nuneaton"],
+    "postcode": "CV11 6WZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4425293413554992, 52.51684639019384] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Stallings Place",
+    "address": ["Kingswinford"],
+    "postcode": "DY6 7LR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.14662837042977, 52.510664042389685] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "The Steadings",
+    "address": ["Cirencester"],
+    "postcode": "GL7 0AD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.9681965199723195, 51.71840941915846] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Winterstoke Gate",
+    "address": ["Weston-super-Mare"],
+    "postcode": "BS24 7QU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.9058708316423756, 51.34195266968298] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Cley Hill View",
+    "address": ["Warminster"],
+    "postcode": "BA12 8HD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2082107771414194, 51.201323935343154] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Wildflower Place",
+    "address": ["Hengrove, Bristol"],
+    "postcode": "BS14 0HR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.5871113021789482, 51.41625294945389] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat West Midlands",
+    "sales_name": "Saxon Gate",
+    "address": ["Bridgwater"],
+    "postcode": "TA6 6DF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.001369018125897, 51.099179021880246] }
 }
 
 
