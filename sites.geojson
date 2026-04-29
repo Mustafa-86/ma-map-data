@@ -5796,6 +5796,7 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-2.010242236420166, 52.66830288433189] }
+},
 {
   "type": "Feature",
   "properties": {
