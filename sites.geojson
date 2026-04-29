@@ -5928,9 +5928,84 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-3.001369018125897, 51.099179021880246] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Homes by Esh",
+    "sales_name": "Bluebell Gardens",
+    "address": ["Salters Lane, County Durham"],
+    "postcode": "TS29 6PU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4347515099762422, 54.70076038677037] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Homes by Esh",
+    "sales_name": "Collier Gardens",
+    "address": ["Philadelphia Lane, Philadelphia"],
+    "postcode": "DH4 4JD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4814659160705388, 54.86219510306888] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Homes by Esh",
+    "sales_name": "Havelock Park",
+    "address": ["Carmel Road, Blackwell, Darlington"],
+    "postcode": "DL3 8EJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5721778679025484, 54.510032007597395] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Homes by Esh",
+    "sales_name": "Hurworth Meadows",
+    "address": ["Neasham Road, Hurworth Moor, Darlington"],
+    "postcode": "DL2 1DL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5383166060077502, 54.50685388829154] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Homes by Esh",
+    "sales_name": "Burdon Road",
+    "address": ["Tunstall, Sunderland"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.3990627832355351, 54.86559834380796] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Homes by Esh",
+    "sales_name": "Burtree Garden Village",
+    "address": ["Rotary Way, Faverdale"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5765452157737199, 54.559628983129095] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Homes by Esh",
+    "sales_name": "Conniscliffe Road",
+    "address": ["Darlington"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5867395492213583, 54.51676082767728] }
 }
-
-
 
 
 ]
