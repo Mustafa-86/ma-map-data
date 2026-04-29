@@ -5675,12 +5675,150 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-2.1114974919611305, 51.9508657846541] }
+},
+,
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Stonebond Midlands",
+    "sales_name": "Baginton",
+    "address": ["Coventry Rd, Baginton, Coventry"],
+    "postcode": "CV8 3AU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4929361876294334, 52.367429044128045] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Stonebond Midlands",
+    "sales_name": "Maisemore",
+    "address": ["A417, Maisemore, Gloucester"],
+    "postcode": "GL2 8HL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2778922517644933, 51.89008505583371] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Stonebond Midlands",
+    "sales_name": "Daventry",
+    "address": ["Farnborough Dr, Middlemore"],
+    "postcode": "NN11 8AL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.1745644357649352, 52.278555389340724] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Stonebond Midlands",
+    "sales_name": "Evesham",
+    "address": ["Stewart Cl, Evesham"],
+    "postcode": "WR11 2AA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.9723102490864768, 52.08955341796944] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Stonebond Midlands",
+    "sales_name": "Highley",
+    "address": ["Woodhill Rd, Highley, Bridgnorth"],
+    "postcode": "WV16 6HH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.3939844487564548, 52.45591416153978] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Stonebond Midlands",
+    "sales_name": "Woodville",
+    "address": ["Hartshorne Rd, Woodville, Swadlincote"],
+    "postcode": "DE11 7HY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5288186934550936, 52.77331086589277] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Stonebond Midlands",
+    "sales_name": "Norton",
+    "address": ["Old Tewkesbury Rd, Gloucester"],
+    "postcode": "GL2 9LJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2067609342514847, 51.91676073832815] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Stonebond Midlands",
+    "sales_name": "Cheltenham",
+    "address": ["N Rd W, The Reddings, Cheltenham"],
+    "postcode": "GL51 6RG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.139395852953839, 51.89127745395941] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Stonebond Midlands",
+    "sales_name": "Lydney",
+    "address": ["Highfield Rd, Lydney"],
+    "postcode": "GL15 4LJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.509802880407998, 51.73692314320345] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Stonebond Midlands",
+    "sales_name": "Newton",
+    "address": ["Newton, Nottingham"],
+    "postcode": "NG13 8WJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.9790029188665208, 52.96231925879313] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Stonebond Midlands",
+    "sales_name": "Great Wyrley",
+    "address": ["Pool View, Great Wyrley, Walsall"],
+    "postcode": "WS6 6PA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.010242236420166, 52.66830288433189] }
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Stonebond Midlands",
+    "sales_name": "Bretforton",
+    "address": ["Ivy Ln, Bretforton, Evesham"],
+    "postcode": "WR11 7HP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.8699413509804077, 52.099878253060595] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Stonebond Midlands",
+    "sales_name": "Craddock Street",
+    "address": ["Craddock St, Wolverhampton"],
+    "postcode": "WV6 0QH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.142257043250618, 52.59703635080378] }
 }
-
-
-
-
-
 
 
 
