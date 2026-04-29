@@ -5601,6 +5601,50 @@
   "geometry": { "type": "Point", "coordinates": [-4.236751, 50.425318] }
 }
   ]
-}
+},
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "company": "Prospect Homes",
+      "sales_name": "Abbey Vale",
+      "address": ["South Lane, Widnes"],
+      "postcode": "WA8 3UB",
+      "status": "Live"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-2.7003448515090853, 53.38634681559652]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "company": "Prospect Homes",
+      "sales_name": "Hollinsgate",
+      "address": ["New Road, Burnley"],
+      "postcode": "BB11 2QW",
+      "status": "Live"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-2.2368158819310606, 53.77354194983268]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "company": "Prospect Homes",
+      "sales_name": "Weavers Rise",
+      "address": ["Mellor Brook"],
+      "postcode": "BB2 7LF",
+      "status": "Live"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-2.5684599635264447, 53.777135144426325]
+    }
+  }
+]
 
 
