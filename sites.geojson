@@ -7198,17 +7198,6 @@
   "type": "Feature",
   "properties": {
     "company": "MV Kelly",
-    "sales_name": "Grove",
-    "address": ["Wantage"],
-    "postcode": "OX12 0FY",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-1.4206, 51.6127] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "MV Kelly",
     "sales_name": "The Maples",
     "address": ["Grove, Wantage"],
     "postcode": "OX12 0BA",
