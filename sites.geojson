@@ -6670,17 +6670,6 @@
   "type": "Feature",
   "properties": {
     "company": "MV Kelly",
-    "sales_name": "Beaumont Road",
-    "address": ["Wellingborough"],
-    "postcode": "NN8",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-0.6952, 52.3021] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "MV Kelly",
     "sales_name": "Wardentree Lane",
     "address": ["Pinchbeck, Spalding"],
     "postcode": "PE11",
