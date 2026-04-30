@@ -7413,6 +7413,28 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.4524, 51.7694] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Warrington",
+    "address": ["Warrington"],
+    "postcode": "WA4 4GT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.6308, 53.3245] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Newport Pagnell",
+    "address": ["Newport Pagnell"],
+    "postcode": "MK16 0JA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.7197, 52.0863] }
 }
 
 
