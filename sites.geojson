@@ -7099,17 +7099,6 @@
   "type": "Feature",
   "properties": {
     "company": "MV Kelly",
-    "sales_name": "Priestley Drive",
-    "address": ["Milton Keynes"],
-    "postcode": "MK4",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-0.7981, 52.0015] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "MV Kelly",
     "sales_name": "Hanson Road",
     "address": ["Abingdon"],
     "postcode": "OX14 1YL",
