@@ -7209,17 +7209,6 @@
   "type": "Feature",
   "properties": {
     "company": "MV Kelly",
-    "sales_name": "Valley Park",
-    "address": ["Didcot"],
-    "postcode": "OX11 6LB",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-1.2407, 51.6109] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "MV Kelly",
     "sales_name": "The Maples",
     "address": ["Grove, Wantage"],
     "postcode": "OX12 0BA",
