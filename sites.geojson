@@ -6819,6 +6819,270 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.2295, 52.6056] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Lichfield Road",
+    "address": ["Barton-under-Needwood, Burton-on-Trent"],
+    "postcode": "DE13 8ED",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.7230, 52.7602] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Arthurs Lane",
+    "address": ["Hambleton, Poulton-le-Fylde"],
+    "postcode": "FY6",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.9712, 53.8484] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Hope Street",
+    "address": ["Macclesfield"],
+    "postcode": "SK10 1JU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1251, 53.2586] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Stanier Close",
+    "address": ["Crewe"],
+    "postcode": "CW1 5GP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4365, 53.1122] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Poverty Lane",
+    "address": ["Liverpool"],
+    "postcode": "L31 3DT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.9180, 53.5154] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "The Moorings",
+    "address": ["Congleton"],
+    "postcode": "CW12 3RF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1923, 53.1588] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Crewe",
+    "address": ["Crewe"],
+    "postcode": "CW1 4QW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4410, 53.1009] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Congleton",
+    "address": ["Congleton"],
+    "postcode": "CW12 1TT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1938, 53.1610] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Station Road",
+    "address": ["Blackrod, Bolton"],
+    "postcode": "BL6",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.5805, 53.5935] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Widnes",
+    "address": ["Widnes"],
+    "postcode": "WA8 3UB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.7359, 53.3655] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Woodbank Street",
+    "address": ["Burslem, Stoke-on-Trent"],
+    "postcode": "ST6 3AZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1835, 53.0503] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Whiston",
+    "address": ["Prescot"],
+    "postcode": "L35 3SR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.8013, 53.4175] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Rossett",
+    "address": ["Wrexham"],
+    "postcode": "LL12 0DS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.9463, 53.1087] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Broad Lane",
+    "address": ["Rochdale"],
+    "postcode": "OL16",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1600, 53.6170] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Stopes Road",
+    "address": ["Little Lever, Radcliffe, Bolton"],
+    "postcode": "BL3 1NW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.3650, 53.5585] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Crab Tree Lane",
+    "address": ["Atherton, Manchester"],
+    "postcode": "M46 0AG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4810, 53.5234] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Mill Lane",
+    "address": ["Newton-le-Willows"],
+    "postcode": "WA12 8BS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.6084, 53.4507] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Glen View Road",
+    "address": ["Burnley"],
+    "postcode": "BB11 2QW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2440, 53.7890] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Preston on the Hill",
+    "address": ["Warrington"],
+    "postcode": "WA4 4BA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.6233, 53.3248] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Mount St James",
+    "address": ["Blackburn"],
+    "postcode": "BB1 2DR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4645, 53.7562] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Warrington",
+    "address": ["Warrington"],
+    "postcode": "WA4 6SU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.5933, 53.3690] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Gladstone Way",
+    "address": ["Hawarden, Deeside"],
+    "postcode": "CH5 3HE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.0265, 53.1840] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Southwood Road",
+    "address": ["Bromborough, Wirral"],
+    "postcode": "CH62 3QX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.9912, 53.3231] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Slag Lane",
+    "address": ["Haydock, Saint Helens"],
+    "postcode": "WA11 9RU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.6861, 53.4632] }
 }
 
 
