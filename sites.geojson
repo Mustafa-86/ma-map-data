@@ -6417,34 +6417,12 @@
   "type": "Feature",
   "properties": {
     "company": "MV Kelly",
-    "sales_name": "Upton",
-    "address": ["Northampton"],
-    "postcode": "NN5 4UX",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-0.9546, 52.2377] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "MV Kelly",
     "sales_name": "Kirby Lane",
     "address": ["Melton Mowbray"],
     "postcode": "LE14",
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.9145, 52.7711] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "MV Kelly",
-    "sales_name": "Wellingborough",
-    "address": ["Wellingborough"],
-    "postcode": "NN8 6BW",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-0.7041, 52.3014] }
 },
 {
   "type": "Feature",
@@ -6500,17 +6478,6 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.7987, 53.0728] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "MV Kelly",
-    "sales_name": "Clifton upon Dunsmore",
-    "address": ["Rugby"],
-    "postcode": "CV23 1DS",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-1.2177, 52.3751] }
 },
 {
   "type": "Feature",
@@ -6588,17 +6555,6 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.5355, 52.9825] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "MV Kelly",
-    "sales_name": "Whitford Road",
-    "address": ["Bromsgrove"],
-    "postcode": "B61",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-2.0647, 52.3353] }
 },
 {
   "type": "Feature",
