@@ -6659,17 +6659,6 @@
   "type": "Feature",
   "properties": {
     "company": "MV Kelly",
-    "sales_name": "Bennetts Road North",
-    "address": ["Coventry"],
-    "postcode": "CV7",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-1.5351, 52.4455] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "MV Kelly",
     "sales_name": "Wardentree Lane",
     "address": ["Pinchbeck, Spalding"],
     "postcode": "PE11",
