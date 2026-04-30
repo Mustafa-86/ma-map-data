@@ -7369,17 +7369,6 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.4524, 51.7694] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "MV Kelly",
-    "sales_name": "Warrington",
-    "address": ["Warrington"],
-    "postcode": "WA4 4GT",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-2.6308, 53.3245] }
 }
 
 
