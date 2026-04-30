@@ -7110,17 +7110,6 @@
   "type": "Feature",
   "properties": {
     "company": "MV Kelly",
-    "sales_name": "Denchworth Road",
-    "address": ["Wantage"],
-    "postcode": "OX12",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-1.4260, 51.5890] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "MV Kelly",
     "sales_name": "Hoffman Close",
     "address": ["Warfield, Bracknell"],
     "postcode": "RG42 2JS",
