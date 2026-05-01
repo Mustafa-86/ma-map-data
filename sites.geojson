@@ -7369,6 +7369,226 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.4524, 51.7694] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Biggleswade",
+    "address": ["Biggleswade"],
+    "postcode": "SG18 8JZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.2625, 52.0856] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Aylesbury",
+    "address": ["Aylesbury"],
+    "postcode": "HP18 0UX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.8610, 51.8042] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Towcester Road",
+    "address": ["Silverstone, Towcester"],
+    "postcode": "NN12 8UB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.0245, 52.0884] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Rugby",
+    "address": ["Rugby"],
+    "postcode": "CV21 4PW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.2650, 52.3709] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Northampton",
+    "address": ["Northampton"],
+    "postcode": "NN3 7XA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.8380, 52.2557] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Cromwell Close",
+    "address": ["Ramsey, Huntingdon"],
+    "postcode": "PE26 1ND",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.1056, 52.4518] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Earlsfield Close",
+    "address": ["Wootton, Northampton"],
+    "postcode": "NN4 6BQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.8892, 52.2238] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Barnfield Avenue",
+    "address": ["Luton"],
+    "postcode": "LU2",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.4025, 51.8950] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Ely Road",
+    "address": ["Littleport"],
+    "postcode": "CB6 1HQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.3025, 52.4550] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Newton Leys",
+    "address": ["Bletchley, Milton Keynes"],
+    "postcode": "MK3 5RP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.7338, 51.9942] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Bedford",
+    "address": ["Bedford"],
+    "postcode": "MK45 3FQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.4561, 52.1364] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Great Haddon",
+    "address": ["Peterborough"],
+    "postcode": "PE7 3TN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.3020, 52.5382] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "High Street",
+    "address": ["Ketton, Stamford"],
+    "postcode": "PE9 3TA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.5505, 52.6193] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Bullens Green Lane",
+    "address": ["Colney Heath, St Albans"],
+    "postcode": "AL4 0QR",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.2974, 51.7486] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Northampton",
+    "address": ["Northampton"],
+    "postcode": "NN6 0RH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.8682, 52.2789] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Berrywood Road",
+    "address": ["Northampton"],
+    "postcode": "NN5 6UZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.9295, 52.2341] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Former RAF Base",
+    "address": ["Ramsey Road, Upwood"],
+    "postcode": "PE26 2RA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.1094, 52.4545] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Wendover Road",
+    "address": ["Weston Turville, Aylesbury"],
+    "postcode": "HP22 5SZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.7875, 51.8118] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "London Road",
+    "address": ["Great Haddon, Peterborough"],
+    "postcode": "PE7 3TB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.3032, 52.5368] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Aston Clinton Road",
+    "address": ["Weston Turville, Aylesbury"],
+    "postcode": "HP22 5AD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.7890, 51.8132] }
 }
 
 
