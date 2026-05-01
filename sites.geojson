@@ -6323,7 +6323,7 @@
     "postcode": "DE23 4AN",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.5336, 52.8962] }
+  "geometry": { "type": "Point", "coordinates": [-1.5344571746047697, 52.891228198499626] } 
 },
 {
   "type": "Feature",
@@ -6334,7 +6334,7 @@
     "postcode": "B77 4EG",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.6526, 52.6358] }
+  "geometry": { "type": "Point", "coordinates": [-1.6449466487736, 52.62757119966339] } 
 },
 {
   "type": "Feature",
@@ -6345,7 +6345,7 @@
     "postcode": "LE18 3UG",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.1074, 52.5837] }
+  "geometry": { "type": "Point", "coordinates": [-1.0902575310556986, 52.57863642872344] } 
 },
 {
   "type": "Feature",
@@ -6356,7 +6356,7 @@
     "postcode": "S42 6NP",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.4318, 53.2024] }
+  "geometry": { "type": "Point", "coordinates": [-1.4162165100329545, 53.198636312179765] }, 
 },
 {
   "type": "Feature",
@@ -6367,7 +6367,7 @@
     "postcode": "CV23 0AG",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.2192, 52.3795] }
+  "geometry": { "type": "Point", "coordinates": [-1.1880685265761344, 52.37255952117571] } 
 },
 {
   "type": "Feature",
@@ -6378,7 +6378,7 @@
     "postcode": "LE16 7BN",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.9201, 52.4777] }
+  "geometry": { "type": "Point", "coordinates": [-0.9305662510638693, 52.48702460820628] }
 },
 {
   "type": "Feature",
@@ -6389,7 +6389,7 @@
     "postcode": "FY6",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.9908, 53.8493] }
+  "geometry": { "type": "Point", "coordinates": [-2.9810042120142466, 53.841017060180384] },
 },
 {
   "type": "Feature",
@@ -6400,7 +6400,7 @@
     "postcode": "ST16 1AQ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.1165, 52.8143] }
+  "geometry": { "type": "Point", "coordinates": [-2.1345522663331997, 52.80577146906489] },
 },
 {
   "type": "Feature",
@@ -6411,7 +6411,7 @@
     "postcode": "DN21 4BJ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.5998, 53.4749] }
+  "geometry": { "type": "Point", "coordinates": [-0.5960092081226314, 53.480924374229026] },
 },
 {
   "type": "Feature",
