@@ -6323,7 +6323,7 @@
     "postcode": "DE23 4AN",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.5344571746047697, 52.891228198499626] } 
+  "geometry": { "type": "Point", "coordinates": [-1.5344571746047697, 52.891228198499626] }
 },
 {
   "type": "Feature",
@@ -6334,7 +6334,7 @@
     "postcode": "B77 4EG",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.6449466487736, 52.62757119966339] } 
+  "geometry": { "type": "Point", "coordinates": [-1.6449466487736, 52.62757119966339] }
 },
 {
   "type": "Feature",
@@ -6345,7 +6345,7 @@
     "postcode": "LE18 3UG",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.0902575310556986, 52.57863642872344] } 
+  "geometry": { "type": "Point", "coordinates": [-1.0902575310556986, 52.57863642872344] }
 },
 {
   "type": "Feature",
@@ -6367,7 +6367,7 @@
     "postcode": "CV23 0AG",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.1880685265761344, 52.37255952117571] },
+  "geometry": { "type": "Point", "coordinates": [-1.1880685265761344, 52.37255952117571] }
 },
 {
   "type": "Feature",
@@ -6378,7 +6378,7 @@
     "postcode": "LE16 7BN",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.9305662510638693, 52.48702460820628] },
+  "geometry": { "type": "Point", "coordinates": [-0.9305662510638693, 52.48702460820628] }
 },
 {
   "type": "Feature",
@@ -6389,7 +6389,7 @@
     "postcode": "FY6",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.9810042120142466, 53.841017060180384] },
+  "geometry": { "type": "Point", "coordinates": [-2.9810042120142466, 53.841017060180384] }
 },
 {
   "type": "Feature",
@@ -6400,7 +6400,7 @@
     "postcode": "ST16 1AQ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.1345522663331997, 52.80577146906489] },
+  "geometry": { "type": "Point", "coordinates": [-2.1345522663331997, 52.80577146906489] }
 },
 {
   "type": "Feature",
@@ -6411,7 +6411,7 @@
     "postcode": "DN21 4BJ",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.5960092081226314, 53.480924374229026] },
+  "geometry": { "type": "Point", "coordinates": [-0.5960092081226314, 53.480924374229026] }
 },
 {
   "type": "Feature",
