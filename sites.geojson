@@ -6367,7 +6367,7 @@
     "postcode": "CV23 0AG",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.1880685265761344, 52.37255952117571] } 
+  "geometry": { "type": "Point", "coordinates": [-1.1880685265761344, 52.37255952117571] },
 },
 {
   "type": "Feature",
@@ -6378,7 +6378,7 @@
     "postcode": "LE16 7BN",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.9305662510638693, 52.48702460820628] }
+  "geometry": { "type": "Point", "coordinates": [-0.9305662510638693, 52.48702460820628] },
 },
 {
   "type": "Feature",
