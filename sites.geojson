@@ -7737,17 +7737,6 @@
   "type": "Feature",
   "properties": {
     "company": "MV Kelly",
-    "sales_name": "Milton",
-    "address": ["Abingdon"],
-    "postcode": "OX14 4TX",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-1.3087, 51.6231] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "MV Kelly",
     "sales_name": "Babraham Road",
     "address": ["Cambridge"],
     "postcode": "CB22 3JH",
