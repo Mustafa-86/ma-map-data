@@ -7589,6 +7589,215 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.7890, 51.8132] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Alconbury",
+    "address": ["Huntingdon"],
+    "postcode": "PE28 4DA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.2653, 52.4035] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Haslingfield Road",
+    "address": ["Cambridge"],
+    "postcode": "CB22 7RG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.0857, 52.1674] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Shrewsbury Road",
+    "address": ["Cambridge"],
+    "postcode": "CB3 0SJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.0945, 52.2113] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Rampton Road",
+    "address": ["Cottenham, Cambridge"],
+    "postcode": "CB24 8TJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.1178, 52.2885] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Babraham Road",
+    "address": ["Sawston, Cambridge"],
+    "postcode": "CB22",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.1692, 52.1205] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "West Green Drive",
+    "address": ["Stratford-upon-Avon"],
+    "postcode": "CV37 9HZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.7268, 52.1981] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Royston",
+    "address": ["Royston"],
+    "postcode": "SG8 7FJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.0235, 52.0498] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Lawrence Weaver Road",
+    "address": ["Darwin Green, Cambridge"],
+    "postcode": "CB3 0GX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.0987, 52.2201] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Burnham-on-Crouch",
+    "address": ["Burnham-on-Crouch"],
+    "postcode": "CM0 8GF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.8142, 51.6297] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Rye Street",
+    "address": ["Bishop's Stortford"],
+    "postcode": "CM23 2HE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.1615, 51.8713] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Woodfen Road",
+    "address": ["Littleport, Ely"],
+    "postcode": "CB6",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.3086, 52.4561] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Newmarket",
+    "address": ["Newmarket"],
+    "postcode": "CB8 7XN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.4102, 52.2453] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "King's Lynn",
+    "address": ["King's Lynn"],
+    "postcode": "PE30 3HQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.4016, 52.7548] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Milton",
+    "address": ["Abingdon"],
+    "postcode": "OX14 4TX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.3087, 51.6231] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Babraham Road",
+    "address": ["Cambridge"],
+    "postcode": "CB22 3JH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.1608, 52.1407] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Haverhill",
+    "address": ["Haverhill"],
+    "postcode": "CB9 0BW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.4373, 52.0832] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Chiswell Green Lane",
+    "address": ["St Albans"],
+    "postcode": "AL2 3AN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.3685, 51.7421] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Hoddesdon",
+    "address": ["Hoddesdon"],
+    "postcode": "EN11 8FW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.0023, 51.7632] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Silsoe",
+    "address": ["Bedford"],
+    "postcode": "MK45 4QS",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.4297, 52.0156] }
 }
 
 
