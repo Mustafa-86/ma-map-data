@@ -7776,6 +7776,303 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.4297, 52.0156] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Dursley",
+    "address": ["Dursley"],
+    "postcode": "GL11 5HA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.3555, 51.6812] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Teasel Way",
+    "address": ["Carterton"],
+    "postcode": "OX18 1JB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5965, 51.7588] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Stonebow Road",
+    "address": ["Drakes Broughton, Pershore"],
+    "postcode": "WR10 2AW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.0484, 52.1256] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Brockworth",
+    "address": ["Gloucester"],
+    "postcode": "GL3 4QY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1683, 51.8608] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Gloucester",
+    "address": ["Gloucester"],
+    "postcode": "GL2 9PG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2577, 51.8601] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Newent",
+    "address": ["Newent"],
+    "postcode": "GL18 1TH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4045, 51.9352] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "St Lukes Road",
+    "address": ["Doseley, Telford"],
+    "postcode": "TF4 3BD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4447, 52.6542] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Calcott Lane",
+    "address": ["Bicton, Shrewsbury"],
+    "postcode": "SY3 8EZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.7826, 52.7101] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Frankley Beeches Road",
+    "address": ["Birmingham"],
+    "postcode": "B31 5NH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.0088, 52.4035] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Stratford-upon-Avon",
+    "address": ["Stratford-upon-Avon"],
+    "postcode": "CV37 9RX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.7083, 52.1920] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Holly Lane",
+    "address": ["Birmingham"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.8925, 52.4862] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Shaftmoor Lane",
+    "address": ["Birmingham"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.8282, 52.4593] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Leamington Road",
+    "address": ["Kenilworth"],
+    "postcode": "CV8 2AA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5752, 52.3467] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Hurst Lane",
+    "address": ["Tipton"],
+    "postcode": "DY4 9AB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.0658, 52.5382] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Banbury",
+    "address": ["Banbury"],
+    "postcode": "OX16 9UN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.3402, 52.0512] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Martingale Way",
+    "address": ["Lawley Bank, Telford"],
+    "postcode": "TF4 2PF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4685, 52.6591] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Witney",
+    "address": ["Witney"],
+    "postcode": "OX29 7AH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4865, 51.7853] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Witney",
+    "address": ["Witney"],
+    "postcode": "OX29 7BW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4881, 51.7839] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Wanlip",
+    "address": ["Leicester"],
+    "postcode": "LE7 4PN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.1162, 52.6935] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Swindon",
+    "address": ["Swindon"],
+    "postcode": "SN4 0SN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.7982, 51.5453] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Weights Lane",
+    "address": ["Redditch"],
+    "postcode": "B97",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.9402, 52.3087] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Manor Road",
+    "address": ["Wednesbury"],
+    "postcode": "WS10 0JP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.0284, 52.5521] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Chippenham",
+    "address": ["Chippenham"],
+    "postcode": "SN15 1JB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1197, 51.4613] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Hospital Lane",
+    "address": ["Bedworth"],
+    "postcode": "CV12",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4698, 52.4822] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Wickwar Road",
+    "address": ["Kingswood, Wotton-under-Edge"],
+    "postcode": "GL12 8RF",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.3825, 51.6107] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Ashchurch",
+    "address": ["Tewkesbury"],
+    "postcode": "GL20 7BG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1392, 51.9986] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Wanborough",
+    "address": ["Swindon"],
+    "postcode": "SN4 0UY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.7403, 51.5547] }
 }
 
 
