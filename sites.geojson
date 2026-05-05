@@ -8073,6 +8073,39 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.7403, 51.5547] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Main Road",
+    "address": ["Danbury, Chelmsford"],
+    "postcode": "CM3 4NQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.5823, 51.7165] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "St Johns Road",
+    "address": ["Tiffield, Towcester"],
+    "postcode": "NN12 8AA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.0224, 52.1215] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Tilley's Lane",
+    "address": ["Swindon"],
+    "postcode": "SN3 4PE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.7582, 51.5631] }
 }
 
 
