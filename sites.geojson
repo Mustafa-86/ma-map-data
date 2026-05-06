@@ -8106,6 +8106,303 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.7582, 51.5631] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Houghton Road",
+    "address": ["St Ives"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.0715, 52.3235] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Mickleover",
+    "address": ["Derby"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.5402, 52.9061] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Bob Brown Way",
+    "address": ["Crewe"],
+    "postcode": "CW1",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4410, 53.1009] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Winterley",
+    "address": ["Sandbach"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4102, 53.1238] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Lambs Road",
+    "address": ["Thornton-Cleveleys"],
+    "postcode": "FY5",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.0220, 53.8740] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Hatherop Road",
+    "address": ["Fairford"],
+    "postcode": "GL7",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.7815, 51.7075] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Green Lane",
+    "address": ["Chesterton, Bicester"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.1835, 51.8925] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Stoney Lane",
+    "address": ["Newbury"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.3234, 51.4014] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Barton Park",
+    "address": ["Oxford"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.2206, 51.7675] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Greenham Road",
+    "address": ["Newbury"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.3136, 51.3958] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Employment Park",
+    "address": ["Little Paxton"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.2497, 52.2480] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Senliz Road",
+    "address": ["Alconbury, Huntingdon"],
+    "postcode": "PE28",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.2653, 52.4035] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Sawbridgeworth",
+    "address": ["Sawbridgeworth"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.1485, 51.8160] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Bromham Road",
+    "address": ["Bedford"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.4810, 52.1405] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "New Sandy Lane",
+    "address": ["Harpole, Northampton"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.9896, 52.2426] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Dallington",
+    "address": ["Northampton"],
+    "postcode": "NN5",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.9226, 52.2506] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Heath Lane",
+    "address": ["Codicote, Hitchin"],
+    "postcode": "SG4",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.2355, 51.8504] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Overstone",
+    "address": ["Northampton"],
+    "postcode": "NN6",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.8082, 52.2816] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Roundhouse Way",
+    "address": ["Wellingborough"],
+    "postcode": "NN8",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.6952, 52.3021] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Kents Hill",
+    "address": ["Milton Keynes"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.7055, 52.0271] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Hall Road",
+    "address": ["Elsenham, Bishop's Stortford"],
+    "postcode": "CM22",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.2295, 51.9155] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Needham Market",
+    "address": ["Ipswich"],
+    "postcode": "IP6",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [1.0515, 52.1544] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Holly Lane",
+    "address": ["Birmingham"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.8925, 52.4862] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Shaftmoor Lane",
+    "address": ["Birmingham"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.8282, 52.4593] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Weights Lane",
+    "address": ["Redditch"],
+    "postcode": "B97",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.9402, 52.3087] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Hospital Lane",
+    "address": ["Bedworth"],
+    "postcode": "CV12",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.4698, 52.4822] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Broadnook Park",
+    "address": ["Leicester"],
+    "postcode": "LE7",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.1162, 52.6935] }
 }
 
 
