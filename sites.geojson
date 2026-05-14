@@ -8149,7 +8149,7 @@
     "postcode": "FY5",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-3.0220, 53.8740] }
+  "geometry": { "type": "Point", "coordinates": [-2.986541522660433, 53.86904451572912] }
 },
 {
   "type": "Feature",
@@ -8182,7 +8182,7 @@
     "postcode": "",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.3234, 51.4014] }
+  "geometry": { "type": "Point", "coordinates": [-1.300603778381875, 51.41353198057489] }
 },
 {
   "type": "Feature",
@@ -8193,7 +8193,7 @@
     "postcode": "",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.2206, 51.7675] }
+  "geometry": { "type": "Point", "coordinates": [-1.3120533560887802, 51.386189462674096 }
 },
 {
   "type": "Feature",
