@@ -8414,9 +8414,29 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.905514516927982, 52.75505664089945] } 
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Market Deeping",
+    "address": ["Market Deeping"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.3209771239561985, 52.68440879242956] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Kingsmere",
+    "address": ["Bicester"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.1698969503796088, 51.897816937929484] }
 }
-
-
 ]
 }
 
