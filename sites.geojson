@@ -8111,23 +8111,12 @@
   "type": "Feature",
   "properties": {
     "company": "MV Kelly",
-    "sales_name": "Houghton Road",
+    "sales_name": "",
     "address": ["St Ives"],
     "postcode": "",
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.0715, 52.3235] }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "company": "MV Kelly",
-    "sales_name": "Mickleover",
-    "address": ["Derby"],
-    "postcode": "",
-    "status": "Live"
-  },
-  "geometry": { "type": "Point", "coordinates": [-1.5402, 52.9061] }
 },
 {
   "type": "Feature",
@@ -8403,7 +8392,18 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.1162, 52.6935] }
-}
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Barlestone Road",
+    "address": ["Newbold Verdon"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-1.3397261983196358, 52.63344892728398] }
+},
 
 
 ]
