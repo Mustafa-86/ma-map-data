@@ -8635,6 +8635,50 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-0.0147, 51.9489] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Lovells North West & North Wales",
+    "sales_name": "Springwood Drive",
+    "address": ["Whalley"],
+    "postcode": "BB7 9WH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4058, 53.8195] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Homes Northwest",
+    "sales_name": "Mosley Common",
+    "address": ["Manchester"],
+    "postcode": "M29 8RH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4435, 53.5138] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Keepmoat Homes Northwest",
+    "sales_name": "Mirlees Fields",
+    "address": ["Stockport"],
+    "postcode": "SK2 7ED",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1296, 53.3928] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Wain Homes Northwest",
+    "sales_name": "Bankfield Lane",
+    "address": ["Southport"],
+    "postcode": "PR9 7NJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.0104, 53.6607] }
 }
 ]
 }
