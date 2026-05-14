@@ -8193,7 +8193,7 @@
     "postcode": "",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.3120533560887802, 51.386189462674096 }
+  "geometry": { "type": "Point", "coordinates": [-1.3120533560887802, 51.386189462674096] }
 },
 {
   "type": "Feature",
