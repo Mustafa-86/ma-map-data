@@ -8404,6 +8404,17 @@
   },
   "geometry": { "type": "Point", "coordinates": [-1.3397261983196358, 52.63344892728398] }
 },
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Leicester Road",
+    "address": ["Melton"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.905514516927982, 52.75505664089945] } 
+}
 
 
 ]
