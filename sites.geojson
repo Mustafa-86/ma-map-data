@@ -8436,6 +8436,51 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-1.1698969503796088, 51.897816937929484] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Houghton Road",
+    "address": ["St Ives"],
+    "postcode": "PE28 2FY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.10046205554113344, 52.33204224076846] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Brampton Lane",
+    "address": ["Northampton"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.9155771468767249, 52.278897795507106] } 
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Manning Road",
+    "address": ["Bourne"],
+    "postcode": "PE10",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.3686572105133538, 52.768019074892806] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "MV Kelly",
+    "sales_name": "Mickleover",
+    "address": ["Derby"],
+    "postcode": "",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [1.5532109646173462, 52.91917919523557] }
 }
 ]
 }
