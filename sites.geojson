@@ -7313,7 +7313,7 @@
     "postcode": "NN8 1RT",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.7016, 52.3040] }
+  "geometry": { "type": "Point", "coordinates": [-0.6665236044144948, 52.30223940326955] }
 },
 {
   "type": "Feature",
@@ -8138,7 +8138,7 @@
     "postcode": "",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-2.4102, 53.1238] }
+  "geometry": { "type": "Point", "coordinates": [-2.375922385990919, 53.11276214572038] }
 },
 {
   "type": "Feature",
