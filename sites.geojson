@@ -8204,7 +8204,7 @@
     "postcode": "",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-1.3136, 51.3958] }
+  "geometry": { "type": "Point", "coordinates": [-1.3113811923504952, 51.3863668139905] }
 },
 {
   "type": "Feature",
