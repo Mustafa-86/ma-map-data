@@ -8270,7 +8270,7 @@
     "postcode": "NN5",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.9226, 52.2506] }
+  "geometry": { "type": "Point", "coordinates": [-0.9227949299210851, 52.24485097136371] }
 },
 {
   "type": "Feature",
@@ -8303,7 +8303,7 @@
     "postcode": "NN8",
     "status": "Live"
   },
-  "geometry": { "type": "Point", "coordinates": [-0.6952, 52.3021] }
+  "geometry": { "type": "Point", "coordinates": [-0.6738141692230692, 52.30985723962357] }
 },
 {
   "type": "Feature",
@@ -8481,6 +8481,161 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [1.5532109646173462, 52.91917919523557] }
+},
+,
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Denbury Homes",
+    "sales_name": "Trinity Rise",
+    "address": ["Off Foster Close, Ormesby St Margaret, Norfolk"],
+    "postcode": "NR29 3PP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [1.6935, 52.6682] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Denbury Homes",
+    "sales_name": "Oak Grove",
+    "address": ["Off The Street, Eyke"],
+    "postcode": "IP12 2QW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [1.3835, 52.1084] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Denbury Homes",
+    "sales_name": "Monarch Rise",
+    "address": ["Off The Folley, Layer de la Haye, Essex"],
+    "postcode": "CO2 0JA",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.8562, 51.8457] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Denbury Homes",
+    "sales_name": "St Edmunds Gate",
+    "address": ["Off Rougham Hill, Bury St Edmunds"],
+    "postcode": "IP33 2RX",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.7334, 52.2394] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Denbury Homes",
+    "sales_name": "Farriers Walk",
+    "address": ["Off Little Green"],
+    "postcode": "CB8 9RG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.4755, 52.1842] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Denbury Homes",
+    "sales_name": "Fallows Watch",
+    "address": ["Off Duck Street, Little Easton"],
+    "postcode": "CM6 2JE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.3266, 51.8891] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Denbury Homes",
+    "sales_name": "Weavers Way",
+    "address": ["Off Cavendish Road, Clare, Suffolk"],
+    "postcode": "CO10 8PJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.5835, 52.0788] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Denbury Homes",
+    "sales_name": "Hemingway Rise",
+    "address": ["Brightwell Lakes, Suffolk"],
+    "postcode": "IP10 0BZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [1.2785, 52.0368] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Denbury Homes",
+    "sales_name": "Swans Brook",
+    "address": ["Off Peldon Road, Abberton, Essex"],
+    "postcode": "CO5 7PB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.9054, 51.8301] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Denbury Homes",
+    "sales_name": "St Marys Place",
+    "address": ["Mendlesham, Suffolk"],
+    "postcode": "IP14 5RT",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [1.0832, 52.2477] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Denbury Homes",
+    "sales_name": "Halstead",
+    "address": ["Essex"],
+    "postcode": "CO9 1SL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.6386, 51.9445] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Denbury Homes",
+    "sales_name": "Clare",
+    "address": ["Suffolk"],
+    "postcode": "CO10 8PJ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.5835, 52.0788] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Denbury Homes",
+    "sales_name": "Flitch Green",
+    "address": ["Essex"],
+    "postcode": "CM6 3GL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [0.4163, 51.8592] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Denbury Homes",
+    "sales_name": "Buntingford",
+    "address": ["Hertfordshire"],
+    "postcode": "SG9 9GY",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-0.0147, 51.9489] }
 }
 ]
 }
