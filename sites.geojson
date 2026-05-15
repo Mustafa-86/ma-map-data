@@ -8679,6 +8679,281 @@
     "status": "Live"
   },
   "geometry": { "type": "Point", "coordinates": [-3.0104, 53.6607] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Riverside",
+    "address": ["Barrowford Business Park, Riverside Way, Nelson"],
+    "postcode": "BB9 6BP",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2215, 53.8462] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Spring Mill",
+    "address": ["Bailey Street, Earby, Barnoldswick"],
+    "postcode": "BB18 6RN",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1168, 53.9167] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Lake View",
+    "address": ["Lakeside, Cheadle"],
+    "postcode": "SK8 3GW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2136, 53.3878] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Pets Choice",
+    "address": ["Lower Philips Road, Blackburn"],
+    "postcode": "BB1 5UD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4624, 53.7564] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Ohagan Court",
+    "address": ["Stanley, Brierfield, Nelson"],
+    "postcode": "BB9 5DL",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2288, 53.8225] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Roman Way",
+    "address": ["Preston"],
+    "postcode": "PR2 5BE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.7043, 53.7827] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Grimshaw Street",
+    "address": ["Accrington"],
+    "postcode": "BB5 0AZ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.3644, 53.7536] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Goose House Lane",
+    "address": ["Darwen"],
+    "postcode": "BB3 0EH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4688, 53.6998] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Khanjra",
+    "address": ["Lawton Street, Manchester"],
+    "postcode": "M11 2WW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1865, 53.4805] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Nicholas Street",
+    "address": ["Burnley"],
+    "postcode": "BB11 2QB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2441, 53.7865] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Revolution Park",
+    "address": ["Goose House Lane, Darwen"],
+    "postcode": "BB3 0EH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4688, 53.6998] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Green Side Way",
+    "address": ["Middleton"],
+    "postcode": "M24 1SW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1962, 53.5541] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Kerakoll",
+    "address": ["Preston"],
+    "postcode": "PR2 5SB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.7008, 53.7831] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "The Grange",
+    "address": ["West Kirby, Merseyside"],
+    "postcode": "CH48 4EE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-3.1845, 53.3734] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Wilson Road",
+    "address": ["Huyton"],
+    "postcode": "L36 6AD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.8428, 53.4147] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "MSM",
+    "address": ["Hanson Close, Middleton"],
+    "postcode": "M24 2HD",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1968, 53.5529] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Roman Way",
+    "address": ["Preston"],
+    "postcode": "PR2 5BE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.7043, 53.7827] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Bottling Plant Burtonwood",
+    "address": ["Warrington"],
+    "postcode": "WA5 4TH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.6522, 53.4301] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Acornfield Road",
+    "address": ["Liverpool, Merseyside"],
+    "postcode": "L33 7UG",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.8718, 53.4937] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Aurora Park",
+    "address": ["Lydia Becker Way, Oldham"],
+    "postcode": "OL9 0GQ",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.1505, 53.5428] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Penny Lane",
+    "address": ["Haydock, St Helens"],
+    "postcode": "WA11 9SE",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.6804, 53.4661] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Darwen Market Hall",
+    "address": ["Darwen, Lancashire"],
+    "postcode": "BB3 1BH",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4685, 53.6976] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Darwen Library Theatre",
+    "address": ["Darwen, Lancashire"],
+    "postcode": "BB2 3BU",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4654, 53.6991] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "St Johns Church",
+    "address": ["Blackburn"],
+    "postcode": "BB1 6DW",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.4753, 53.7478] }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "company": "Barnfield Construction",
+    "sales_name": "Bacup WTS",
+    "address": ["Futures Park, New Church Road, Bacup"],
+    "postcode": "OL13 0BB",
+    "status": "Live"
+  },
+  "geometry": { "type": "Point", "coordinates": [-2.2044, 53.7063] }
 }
 ]
 }
